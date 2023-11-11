@@ -16,7 +16,7 @@ Trang này giải thích các bước và thông tin chính để tham gia giai 
 - Người đánh giá cộng đồng sẽ đăng nhập vào Ideascale và thực hiện đánh giá của họ để cung cấp điểm số và lý do cho điểm đó, sử dụng thang đánh giá được cung cấp
 - Người đánh giá LV0 và LV1 có thể xem xét đề xuất từ ​​bất kỳ thử thách nào, tuy nhiên Catalyst gợi ý rằng ý kiến ​​có giá trị nhất khi xem xét đề xuất từ ​​các lĩnh vực và chủ đề mà Người đánh giá cộng đồng quen thuộc
 - Người đánh giá LV0 và LV1 sẽ được phân bổ các đề xuất để xem xét. Người đánh giá có thể chọn xem xét bên ngoài việc phân bổ, tuy nhiên, để giảm thiểu rủi ro khi đánh lừa, các đánh giá đề xuất không được phân bổ sẽ có điểm có trọng số thấp hơn so với các đánh giá được phân bổ (Chi tiết thêm trong phần Trọng số Điểm)
-- Once a review is submitted, it will pass through Catalyst scripts which analyze the review for: ‘length’, ‘similarity’, ‘profanity’ and ‘use of AI’ (details can be found in the )
+- Sau khi đánh giá được gửi, nó sẽ chuyển qua các tập lệnh Catalyst để phân tích đánh giá về: 'độ dài', 'sự tương đồng', 'từ ngữ xúc phạm' và 'việc sử dụng AI' (bạn có thể tìm thấy thông tin chi tiết trong Catalyst flags section )
 - Tất cả các đánh giá bị gắn cờ sẽ được phân bổ ngẫu nhiên cho ít nhất 2 Người điều hành cộng đồng LV2 để phân tích. Người điều hành cộng đồng sẽ xác định xem bài đánh giá bị gắn cờ sẽ được xuất bản hay loại bỏ.
 - Sau khi quá trình bỏ phiếu kết thúc, việc tính toán phần thưởng cho tất cả người đánh giá (LV0-LV2) sẽ được chuẩn bị
 - Phần thưởng Người đánh giá cộng đồng sẽ được phân phối trong thời gian sớm nhất có thể

@@ -6,7 +6,7 @@ images: []
 weight: '10'
 ---
 
-Welcome to Fund11. Please check our [launch guide](placeholder) where you can find more information about Project Catalyst and Fund categories.
+Chào mừng đến với Quỹ11. Vui lòng xem [hướng dẫn triển khai](placeholder) của chúng tôi, nơi bạn có thể tìm thêm thông tin về các danh mục Project Catalyst.
 
 > Do tính chất năng động của Project Catalyst, những ngày sau đây có thể thay đổi khi quỹ tiến triển. Nếu đúng như vậy, chúng tôi sẽ thông báo cho cộng đồng thông qua các kênh thông báo của chúng tôi trên Discord và Telegram.
 
@@ -48,6 +48,6 @@ Cuộc bỏ phiếu của Fund11 bắt đầu kết thúc vào ngày 8 tháng 2,
 
 Công bố đề xuất được lựa chọn của Fund11
 
-### March 2024
+### Tháng 3 năm 2024
 
 Đưa ra các đề xuất được tài trợ bởi F11

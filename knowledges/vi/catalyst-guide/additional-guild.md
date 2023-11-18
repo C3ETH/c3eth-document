@@ -4,26 +4,26 @@ draft: 'false'
 images: []
 ---
 
-## Open Source Guidance
+## Hướng dẫn về nguồn mở
 
-[Open source](https://opensource.com/resources/what-open-source) refers to something people can modify and share because its design is publicly accessible. Open-source software has source code that anyone can inspect, modify, and enhance. Open-source software, hardware, and data solutions encourage greater transparency and security and help reduce costs by developing, collaborating, and fixing in the open. It helps create developer-friendly tooling and approaches that streamline an integrated development environment, helping to develop code more efficiently and providing ease of use for developers. In all cases, as an essential deliverable, projects must include high-quality documentation as learning resources of the proposal. Cardano Open: Developers (technical) is the most relevant track in Fund 11 to open source solutions.
+[Mã nguồn mở](https://opensource.com/resources/what-open-source) đề cập đến thứ mà mọi người có thể sửa đổi và chia sẻ vì thiết kế của nó nhằm cho phép truy cập công khai. Phần mềm nguồn mở có mã nguồn mà bất kỳ ai cũng có thể kiểm tra, sửa đổi và nâng cấp. Các giải pháp phần mềm, phần cứng và dữ liệu nguồn mở khuyến khích tính minh bạch và bảo mật cao hơn, đồng thời giúp giảm chi phí bằng cách phát triển, cộng tác và sửa chữa một cách công khai. Nó giúp tạo ra các công cụ và phương pháp tiếp cận thân thiện với nhà phát triển, hợp lý hóa môi trường phát triển tích hợp, giúp phát triển mã hiệu quả hơn và mang lại tiện lợi cho các nhà phát triển. Trong mọi trường hợp, với tư cách là sản phẩm thiết yếu, các dự án phải bao gồm tài liệu chất lượng cao làm tài nguyên học tập cho đề xuất. Cardano Open: Nhà phát triển (kỹ thuật) là hướng đi phù hợp nhất trong Quỹ 11 đối với các giải pháp mã nguồn mở.
 
 ### Lĩnh vực quan tâm
 
-Proposals may focus on open-source technical solutions that:
+Các đề xuất có thể tập trung vào các giải pháp cho kỹ thuật mã nguồn mở:
 
 - chuẩn hóa, phát triển, hỗ trợ hoặc cung cấp các tiện ích cho các giải pháp và IDE toàn diện,
-- create new libraries, SDKs, publicly available APIs, toolchains, and frameworks.
+- tạo thư viện mới, SDK, API, công khai các APIs, các chuỗi công cụ và bộ khung.
 
-### What we do not fund
+### Chúng tôi không tài trợ những gì
 
-Cardano Open: Developers (technical) will not be funding projects that:
+Cardano Open: Các nhà phát triển (kỹ thuật) sẽ không nhận được tài trợ cho các dự án nếu:
 
-- do not develop new code or contribute to or support existing open-source developers. For example, a learning resource guide to developing on Plutus, Marlowe, or other smart contracts platforms like Aiken. In this case, the Cardano Open non-developers
+- không phát triển mã mới hoặc đóng góp hoặc hỗ trợ các nhà phát triển mã nguồn mở hiện có. Ví dụ: hướng dẫn tài nguyên học tập để phát triển trên Plutus, Marlowe hoặc các nền tảng hợp đồng thông minh khác như Aiken. Trong trường hợp này, những người không phải là nhà phát triển Cardano Open
 - vốn dĩ phi kỹ thuật (Ví dụ: một sự kiện cộng đồng hoặc hackathon để thu hút nhiều nhà phát triển hoặc người dùng hơn đến Cardano. Trong trường hợp đó, nó phải áp dụng cho Cardano Open: Ecosystem - đường đua phi kỹ thuật.)
 - không phải là nguồn mở và đang sản xuất phần mềm, phần cứng hoặc dữ liệu độc quyền.
 
-## Submitting Milestones for your F11 proposal
+## Nộp các cột mốc cho đề xuất F11
 
 Cột mốc quan trọng là một điểm cụ thể trong vòng đời của dự án để đo lường tiến độ hoàn thành thành công. Chúng là các điểm báo hiệu cho các sản phẩm chính của dự án và là điểm tham chiếu có thể đo lường được, đánh dấu một sự kiện quan trọng hoặc một điểm quyết định phân nhánh trong dự án. Những hành động chính bạn cần thực hiện để thực hiện dự án của mình là gì?
 
@@ -33,8 +33,8 @@ Các mốc quan trọng được xác định rõ ràng như một phần trong 
 
 Cụ thể, là một phần trong quá trình gửi bài của bạn, để chứng minh năng lực và tính khả thi của mình, bạn được yêu cầu liệt kê các cột mốc quan trọng mà bạn cần đạt được để hoàn thành dự án của mình thành công.
 
-At this stage, you are only asked to list the milestones broadly. Doing so will demonstrate to the reviewer that you know what key steps are needed to complete your project. If your project is voted for to receive funding, you will be asked to submit a more detailed Statment of Milestones as part of your onboarding process.
+Ở giai đoạn này, bạn được yêu cầu liệt kê các cột mốc quan trọng một cách khái quát. Làm như vậy sẽ chứng minh cho người đánh giá rằng bạn biết những bước chính cần thiết để hoàn thành dự án của mình. Nếu dự án của bạn được bình chọn để nhận tài trợ, bạn sẽ được yêu cầu gửi Báo cáo về các cột mốc chi tiết hơn như một phần của quy trình giới thiệu của bạn.
 
-This will include providing further details on the acceptance criteria for each milestone, the date of delivery and cost for each milestone, and the evidence you will submit for review after each milestone.
+Điều này sẽ bao gồm việc cung cấp thêm thông tin chi tiết về tiêu chí cho từng cột mốc, ngày giao công trình đã thực hiện và chi phí cho từng cột mốc cũng như bằng chứng bạn sẽ gửi để xem xét sau mỗi cột mốc.
 
 Khi xác định các cột mốc quan trọng của mình, hãy cân nhắc rằng bạn đang trình bày một kế hoạch phân phối dự án đơn giản hóa một cách hiệu quả.

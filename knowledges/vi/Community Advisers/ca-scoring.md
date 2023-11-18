@@ -4,9 +4,9 @@ draft: 'false'
 images: []
 ---
 
-For each of the three criteria, Community Reviewers are required to give their opinion and rationale in English to explain the score and demonstrate the assessor’s critical thinking. A proposal may receive a low score for various reasons, including if the funding application form is not complete, the applicant cannot be clearly identified, or if the project does not comply with Fund 10 Rules. If a rationale does not correspond with the score given, the review will likely be filtered out in the Moderation Stage.
+Đối với mỗi tiêu chí trong số ba tiêu chí, Người đánh giá cộng đồng được yêu cầu đưa ra ý kiến ​​và lý do bằng tiếng Anh để giải thích điểm số và thể hiện tư duy phản biện của người đánh giá. Một đề xuất có thể bị đánh điểm thấp vì nhiều lý do, bao gồm nếu mẫu đơn xin cấp vốn không đầy đủ, không thể xác định rõ người nộp đơn hoặc nếu dự án không tuân thủ Quy tắc của Quỹ 10. Nếu lý do căn bản không tương ứng với số điểm đưa ra thì đánh giá có thể sẽ bị lọc ra trong Giai đoạn kiểm duyệt.
 
-> Community Reviewers should consider and assess proposals and criteria on their own merits. Community Reviewers should only provide their own opinion. Their review should not be the work of others or an AI-agent acting on their behalf.
+> Người đánh giá cộng đồng nên xem xét và đánh giá các đề xuất và tiêu chí dựa trên giá trị riêng của họ. Người đánh giá cộng đồng chỉ nên đưa ra ý kiến ​​của riêng mình. Đánh giá của họ không phải là công việc của người khác hoặc sử dụng AI thay mặt họ.
 
 ## Các yếu tố cần xem xét trong đánh giá
 
@@ -34,19 +34,19 @@ Người đánh giá cộng đồng phải xem xét từng điểm sau khi thự
 
 Mỗi phần trong số ba phần được chấm điểm của một đề xuất (Tác động, Tính khả thi, Giá trị đồng tiền) sẽ được đánh dấu từ 1 đến 5, trong đó [1 Sao ★] = câu trả lời rất kém cho đến [5 Sao ★★★★★] = câu trả lời tuyệt vời .
 
-> ★ - VERY POOR ANSWER <br> ★★ - POOR  ANSWER <br> ★★★ - ACCEPTABLE ANSWER <br> ★★★★ - GOOD ANSWER <br> ★★★★★ - GREAT ANSWER
+> ★ - CÂU TRẢ LỜI RẤT TỆ<br> ★★ - CÂU TRẢ LỜI KÉM<br> ★★★ - CÂU TRẢ LỜI CÓ THỂ CHẤP NHẬN<br> ★★★★ - CÂU TRẢ LỜI TỐT<br> ★★★★★ - CÂU TRẢ LỜI TUYỆT VỜI
 
 ## Ví dụ về tính điểm và lý do
 
 Xin lưu ý rằng những ví dụ này không được sao chép trực tiếp; bạn nên sử dụng lý do căn bản của mình khi hoàn thành đánh giá của mình.
 
-### Impact
+### Tác động
 
 Bạn đang xem xét tác động tích cực của dự án này đối với Hệ sinh thái Cardano.
 
 Dự án này đã được chứng minh rõ ràng về mọi khía cạnh của đề xuất rằng nó sẽ tác động tích cực đến Hệ sinh thái Cardano chưa?
 
-Điểm | Score rationale
+Điểm | Lý do tính điểm
 --- | ---
 1 | **KHÔNG** - dự án này đã không chứng minh được tác động của nó đối với Hệ sinh thái Cardano - tác động chưa được xác định hoặc trình bày đầy đủ.<br> Tác động sẽ THẤP - yếu tố đề xuất này RẤT KÉM
 2-3 | **Một phần** - dự án chỉ chứng minh được một phần rằng nó sẽ có một số tác động đến Hệ sinh thái Cardano, nhưng có quá nhiều lỗ hổng và thiếu sót trong đề xuất. Có khả năng, tác động đề xuất là không thể đạt được. Đề xuất không giải thích rõ ràng giải pháp đề xuất sẽ tạo ra sự khác biệt thực sự như thế nào.<br> Tác động sẽ ở mức TRUNG BÌNH - yếu tố đề xuất này ổn.
@@ -58,9 +58,9 @@ Bạn đang xem xét TÍNH KHẢ THI của dự án này.
 
 Dự án này có khả thi dựa trên đề xuất được gửi không? Liệu kế hoạch, ngân sách liên quan và các mốc quan trọng có thể đạt được không? Nhóm có đủ kỹ năng, kinh nghiệm, năng lực và năng lực để hoàn thành dự án thành công không?
 
-Điểm | Score rationale
+Điểm | Lý do tính điểm
 --- | ---
-1 | **NO**  - this project is not feasible. There is a high risk that the project will fail to complete. <br> Feasibility is LOW - this proposal element is VERY POOR
+1 | **KHÔNG** - dự án này không khả thi. Có nguy cơ cao là dự án sẽ không hoàn thành.<br> Tính khả thi THẤP - yếu tố đề xuất này RẤT TỆ
 2-3 | **Một phần** - đề xuất dự án chỉ thể hiện được một phần tính khả thi. Thiếu một số thông tin xung quanh tính khả thi của nhóm dự án và/hoặc mục tiêu của dự án. Có một số rủi ro rằng dự án có thể không được hoàn thành thành công.<br> Tính khả thi sẽ ở mức TRUNG BÌNH - yếu tố đề xuất này ổn
 4-5 | **CÓ** - dự án này rõ ràng là khả thi dựa trên đề xuất. Nhóm dự án đã chứng minh rõ ràng rằng họ có kinh nghiệm, năng lực và kỹ năng cần thiết để hoàn thành dự án thành công như mô tả, bao gồm cả sự hiểu biết về rủi ro và các biện pháp giảm thiểu có thể xảy ra.<br> Tính khả thi CAO - yếu tố đề xuất này TUYỆT VỜI
 
@@ -70,7 +70,7 @@ Bạn đang xem xét GIÁ TRỊ ĐỐI VỚI TIỀN mà điều này đại di�
 
 Số tiền tài trợ được yêu cầu cho dự án này có hợp lý không và nó có mang lại Giá trị đồng tiền tốt cho Kho bạc không?
 
-Điểm | Score rationale
+Điểm | Lý do tính điểm
 --- | ---
 1 | **KHÔNG** - dự án này không tốt Giá trị đồng tiền.<br> Xếp hạng Giá trị đồng tiền là THẤP - yếu tố đề xuất này RẤT Kém
 2-3 | **Một phần** - dự án chỉ thể hiện được một phần Giá trị đồng tiền mà nó mang lại. Có một số thông tin bị thiếu hoặc không rõ ràng về cách chi tiêu ada và có thể có một số vấn đề trong việc theo dõi tiến độ vì các mốc quá chung chung.<br> Xếp hạng Giá trị đồng tiền là TRUNG BÌNH - yếu tố đề xuất này ổn

@@ -23,15 +23,15 @@ Tất cả những người đánh giá đều có thể đưa ra ý kiến ​�
 
 ### LV0
 
-> LV0 Community Reviewers are ALL new reviewers and less experienced reviewers.
+> Người đánh giá cộng đồng LV0 ĐỀU là người đánh giá mới và người đánh giá có ít kinh nghiệm.
 
-Consider yourself at the ground floor and Catalyst wants you to get used to performing the role. LV0 reviewers will share in a pot of rewards incentives. The larger the pool of LV0 reviews and reviewers, the less per review each reviewer will receive. LV0 Reviewers will be invited to review up to 30 proposals and will be allocated an initial set of proposals to review based on proposals across the entire fund (unable to choose specific challenges).
+Hãy coi mình là người ở tầng trệt và Catalyst muốn bạn làm quen với việc thực hiện vai trò này. Những người đánh giá LV0 sẽ chia sẻ nhiều phần thưởng khuyến khích. Nhóm đánh giá và người đánh giá LV0 càng lớn thì mỗi người đánh giá sẽ nhận được càng ít bài đánh giá. Người đánh giá LV0 sẽ được giao xem xét tối đa 30 đề xuất và sẽ được phân bổ một nhóm đề xuất ban đầu để xem xét dựa trên các đề xuất trên toàn bộ quỹ (không thể chọn những thách thức cụ thể).
 
 ### LV1
 
 > Người đánh giá LV1 đã thực hiện một số lượng đánh giá đáng kể.
 
-LV1 Reviewers will be invited to review up to 80 proposals and will be allocated an initial set of proposals to review based on challenge preferences selected during the registration process.
+Người đánh giá LV1 sẽ được giao xem xét tối đa 80 đề xuất và sẽ được phân bổ một nhóm đề xuất ban đầu để xem xét dựa trên các ưu tiên thách thức được chọn trong quá trình đăng ký.
 
 ### LV2
 

@@ -1,12 +1,13 @@
 ---
 title: "How to become a Community Reviewer?"
-date: 2022-06-06T08:48:23+00:00
-lastmod: 2023-08-07T08:48:23+00:00
 draft: false
 images: []
+weight: 10
 ---
 
-This page explains the steps and key information to join the Community Review stage
+As a Community Reviewer (previously referred to as Proposal Assessor) you play an important role in the Catalyst funding process by providing your opinion as an input to voters who may use your feedback about a proposal to help make their decisions whether to vote for the proposal or not.
+
+>Community reviewers could be fairly new to the Cardano ecosystem or they could be veterans that have been involved with Cardano and Catalyst for a long time.
 
 ## LV0 - New Community Reviewers
 
@@ -33,3 +34,11 @@ Experienced Community Reviewers  must follow the same guidance and steps as LV0 
 - When a LV1 reviewer chooses to review proposals outside of the prescribed allocation, the review will still be counted (subject to passing the flagging and LV2 stage) and rewards for these additional reviewers will be counted as part of the LV0 pot of rewards
 
 An LV1 reviewer may perform more than the allocation of 80 reviews. The rewards for each review above and beyond the allocation will be paid as part of the LV0 pool of reviews. Those excess reviews will also carry a lower weight in score as outlined in the score weight formula section.
+
+## Conflict of Interest
+
+Community Reviewers should recuse themselves from reviewing and moderating:
+
+- their own proposals and reviews,
+- a proposal where they are engaged as an advisor, mentor, or otherwise substantially involved in the execution phase of such proposal, or
+- any other proposal and review in the same challenge category as a proposal they have submitted or are engaged with as an advisor, mentor, or otherwise substantially involved in the execution of such proposal.

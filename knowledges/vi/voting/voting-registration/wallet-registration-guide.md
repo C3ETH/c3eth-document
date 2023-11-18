@@ -4,7 +4,7 @@ draft: 'false'
 images: []
 ---
 
-## Supported wallets
+## Các loại ví được hỗ trợ
 
 Do số lượng ví và phiên bản ví lớn nên Project Catalyst không thể xác thực dữ liệu này trong mọi trường hợp và không được Project Catalyst xác nhận. Bạn có thể kiểm tra xem đăng ký của mình có thành công hay không [tại đây](https://verify.testnet.projectcatalyst.io/)
 

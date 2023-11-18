@@ -5,19 +5,19 @@ images: []
 weight: '10'
 ---
 
-*This page guides proposers in submitting their proposal in ideascale*
+*Trang này hướng dẫn người nộp đề xuất ở Ideascale*
 
-There are many resources available to help you navigate the proposal submission process.
+Có nhiều tài nguyên có sẵn để giúp bạn hiểu hơn về quá trình nộp đề xuất.
 
 Để được hỗ trợ thêm, vui lòng xem xét xem xét các tài liệu và hỗ trợ sau:
 
 Ngày quan trọng:
 
-- Deadline to submit draft proposals - November 30, 2023 at 11:00 AM UTC
+- Hạn chót nộp dự thảo đề xuất - ngày 30 tháng 11 năm 2023 lúc 11:00 sáng theo giờ UTC
 
-- Deadline to finalise proposals - December 7, 2023 at 11:00 AM UTC
+- Hạn chót hoàn thiện các đề xuất - ngày 7 tháng 12 năm 2023 lúc 11:00 sáng tính theo UTC
 
-*Note: Any largely blank proposals (empty drafts with many TBD/TBC/coming soon items) or ideas with titles such as "Placeholder" may be archived without notice at any time. Kindly submit drafts once you are ready to proceed with enough context for the community to provide tangible feedback.*
+*Lưu ý: Bất kỳ đề xuất nào có phần lớn để trống (bản nháp trống có nhiều TBD/TBC/các mục sắp ra mắt) hoặc ý tưởng có tiêu đề như "Trình giữ chỗ" có thể bị lưu trữ mà không cần thông báo bất kỳ lúc nào. Vui lòng gửi bản nháp sau khi bạn sẵn sàng tiếp tục với đủ nội dung để cộng đồng cung cấp phản hồi rõ ràng.*
 
 ### TỔNG QUAN
 
@@ -27,9 +27,9 @@ Ngày quan trọng:
 
 > Xin lưu ý rằng chúng tôi khuyên bạn nên sử dụng không quá 60 ký tự cho tiêu đề đề xuất của mình để có thể dễ dàng xem nó trong ứng dụng bỏ phiếu
 
-The title should clearly express what the proposal is about. Voters can see the title in the voting app, even without opening the proposal, so a clear, unambiguous, and concise title is very important.
+Tiêu đề phải thể hiện rõ ràng nội dung của đề xuất. Cử tri có thể nhìn thấy tiêu đề trong ứng dụng bỏ phiếu, ngay cả khi không mở đề xuất, vì vậy tiêu đề rõ ràng và ngắn gọn là rất quan trọng.
 
-##### Name and Surname of Main Applicant
+##### Họ và tên của người nộp đơn chính
 
 Vui lòng cung cấp tên và họ của người nộp đơn chính. Người nộp đơn chính được coi là cá nhân chịu trách nhiệm về dự án và là người được ủy quyền hành động thay mặt cho những người nộp đơn khác (nếu có).
 
@@ -46,7 +46,7 @@ Liệt kê bất kỳ người nào đang nộp đề xuất cùng với ngườ
 
 QUAN TRỌNG - Tối đa 5 (năm) đề xuất có thể được chủ trì hoặc Đồng đề xuất bởi cùng một người nộp đơn hoặc doanh nghiệp. Thông tin chi tiết có thể được tìm thấy [ở đây](https://)
 
-##### Requested funds in ada
+##### Số tiền được yêu cầu bằng ada
 
 Tối thiểu 15k tiền Ada cho tất cả các dự án
 
@@ -58,13 +58,13 @@ Giới hạn tối đa về số tiền được yêu cầu được phân chia 
 - Giải pháp: lên tới 300k
 - Sản phẩm: lên tới 750k
 
-Cardano Open (both technical &amp; non-technical tracks) up to 200k
+Cardano Open (cả kỹ thuật và phi kỹ thuật) lên tới 200k
 
 Cải tiến hệ thống xúc tác: không có giới hạn
 
 ##### Vui lòng nêu rõ bạn dự kiến ​​dự án của mình sẽ kéo dài bao nhiêu tháng (từ 2-12 tháng)
 
-Minimum 2 months - Maximum 12 months. ​ The scope of your funding request and this project is expected to produce the deliverables you specify in the proposal within 2-12 months. ​ If you believe your project will take longer than 12 months, consider reducing the project’s scope so that it becomes achievable within 12 months. ​ If your project completes earlier than scheduled so long as you have submitted your PoAs and Project Completion report and video then your project can be closed out
+Tối thiểu 2 tháng - Tối đa 12 tháng.​ Phạm vi yêu cầu tài trợ của bạn và dự án này dự kiến ​​sẽ tạo ra các sản phẩm mà bạn chỉ định trong đề xuất trong vòng 2-12 tháng.​ Nếu bạn cho rằng dự án của mình sẽ mất hơn 12 tháng, hãy cân nhắc giảm phạm vi dự án để có thể hoàn thành dự án trong vòng 12 tháng.​ Nếu dự án của bạn hoàn thành sớm hơn dự kiến ​​miễn là bạn đã gửi PoA và báo cáo và video Hoàn thành dự án thì dự án của bạn có thể coi như hoàn thành
 
 ##### Vui lòng cho biết đề xuất của bạn đã được dịch tự động sang tiếng Anh từ ngôn ngữ khác hay chưa.
 
@@ -80,27 +80,27 @@ Tập trung vào những gì bạn sẽ làm, thực hiện hoặc thay đổi �
 
 ##### Kho lưu trữ trang web/ GitHub hoặc bất kỳ liên kết có liên quan nào khác (Tùy chọn)
 
-Here, you could include links to your website or that of a partner organization, and/or a link to any whitepaper or other publication you have written about your proposal. ​ Note however that this is extra information that voters and Community Reviewers might choose not to read. You should not fail to include any of the questions in this form because you feel the answers can be found elsewhere. ​ If any links are specified make sure these are added in good order (first link must be present before specifying second). Also ensure all links include ‘https.’ Without these steps, the form will not be submittable and show errors.
+Tại đây, bạn có thể gắn các liên kết đến trang web của bạn hoặc của một tổ chức đối tác và/hoặc liên kết đến bất kỳ sách trắng hoặc ấn phẩm nào khác mà bạn đã viết về đề xuất của mình.​ Tuy nhiên, hãy lưu ý rằng đây là thông tin bổ sung mà cử tri và Người đánh giá cộng đồng có thể chọn không đọc. Bạn không nên quên đưa bất kỳ câu hỏi nào vào biểu mẫu này vì bạn cảm thấy câu trả lời có thể được tìm thấy ở nơi khác.​ Nếu có bất kỳ liên kết nào được chỉ định, hãy đảm bảo rằng chúng được thêm vào theo thứ tự hợp lí (liên kết đầu tiên phải có trước khi chỉ định liên kết thứ hai). Đồng thời đảm bảo tất cả các liên kết đều bao gồm 'https.' Nếu không có các bước này, biểu mẫu sẽ không thể gửi được và hiển thị lỗi.
 
 ##### Dự án của bạn có bất kỳ sự phụ thuộc nào vào các tổ chức khác, về mặt kỹ thuật hay không?
 
-YES/NO
+CÓ/KHÔNG
 
-##### If YES, please describe what the dependency is and why you believe it is essential for your project’s delivery. If NO, please write “No dependencies.”
+##### Nếu CÓ, vui lòng mô tả sự phụ thuộc là gì và tại sao bạn tin rằng nó cần thiết cho việc phân phối dự án của bạn. Nếu KHÔNG, vui lòng trả lời “Không phụ thuộc”.
 
-Here you should list any dependencies and prerequisites for your project’s success. These are usually external factors (such as third-party suppliers, external resources, third-party software, etc.) that may cause a delay, since a project has less control over them. In case of third party software, indicate whether you have the necessary licenses and permission to use such software.
+Tại đây bạn nên liệt kê mọi sự phụ thuộc và điều kiện tiên quyết để dự án của bạn thành công. Đây thường là các yếu tố bên ngoài (chẳng hạn như nhà cung cấp bên thứ ba, nguồn lực bên ngoài, phần mềm của bên thứ ba, v.v.) có thể gây ra sự chậm trễ vì dự án có ít quyền kiểm soát hơn đối với chúng. Trong trường hợp là phần mềm của bên thứ ba, hãy cho biết liệu bạn có giấy phép và các quyền cần thiết để sử dụng phần mềm đó hay không.
 
-##### Will your project’s output/s be fully open source?
+##### Liệu đầu ra của dự án của bạn có phải hoàn toàn là mã nguồn mở không?
 
-YES/NO
+CÓ/KHÔNG
 
-> Open Source refers to something people can modify and share because its design is publicly accessible. Open source software is software with source code that anyone can inspect, modify, and enhance. ​ Conversely, only the original authors of proprietary software can legally copy, inspect, and alter that software.
+> Nguồn mở đề cập đến thứ mà mọi người có thể sửa đổi và chia sẻ vì thiết kế của nó cho phép truy cập công khai. Phần mềm nguồn mở là phần mềm có mã nguồn mà bất kỳ ai cũng có thể kiểm tra, sửa đổi và nâng cao. Ngược lại, chỉ tác giả ban đầu của phần mềm độc quyền mới có thể sao chép, kiểm tra và thay đổi phần mềm đó một cách hợp pháp.
 
 ##### Vui lòng cung cấp thêm thông tin ở đây về trạng thái nguồn mở của các kết quả đầu ra dự án của bạn
 
 Nếu bạn trả lời CÓ cho những câu hỏi trên
 
-Please indicate here the type of licence you intend to use  for open source and provide any further information you feel is relevant to the open source status of your project outputs.
+Vui lòng chỉ ra ở đây loại giấy phép bạn dự định sử dụng cho mã nguồn mở và cung cấp thêm bất kỳ thông tin nào mà bạn cảm thấy có liên quan đến trạng thái mã nguồn mở của các kết quả đầu ra dự án của bạn.
 
 Nếu chỉ một số thành phần nhất định trong mã của bạn sẽ là nguồn mở, vui lòng làm rõ những thành phần nào sẽ là nguồn mở [tại đây](placeholder) .
 
@@ -120,7 +120,7 @@ API<br> DAO<br> DApp<br> Datatools<br> DeFi Exchanges<br> Explorers<br> Gaming<b
 
 #### Xếp hạng SDG (Tùy chọn)
 
-This field is optional. You can use the [SDG Proposer Tool](https://cardanocataly.st/proposer-tool-sdg/#/) to help you include any relevant [UN SDGs](https://sdgs.un.org/goals),[sub goals and/or KPIs](https://sdgs.un.org/goals) in your proposal.
+Mục này không bắt buộc. Bạn có thể sử dụng [Công cụ đề xuất SDG](https://cardanocataly.st/proposer-tool-sdg/#/) để giúp bạn đưa mọi [UN SDG](https://sdgs.un.org/goals) , [mục tiêu phụ và/hoặc KPI](https://sdgs.un.org/goals) liên quan vào đề xuất của mình.
 
 
 
@@ -128,7 +128,7 @@ This field is optional. You can use the [SDG Proposer Tool](https://cardanocatal
 
    <summary>GIẢI PHÁP</summary>
 
-#### Please describe your proposed solution
+#### Vui lòng mô tả giải pháp bạn đã đề ra
 
 Cách bạn viết phần này sẽ phụ thuộc vào loại đề xuất bạn đang viết. Bạn có thể muốn bao gồm chi tiết về:
 
@@ -141,13 +141,13 @@ Giải thích điểm độc đáo trong giải pháp của bạn, ai sẽ đư�
 
 
 
-### IMPACT
+### TÁC ĐỘNG
 
-   <summary>IMPACT</summary>
+   <summary>TÁC ĐỘNG</summary>
 
-#### Please define the positive impact your project will have on the wider Cardano community.
+#### Vui lòng nêu ra tác động tích cực mà dự án của bạn sẽ mang lại đối với cộng đồng Cardano.
 
-Please include here a description of how you intend to measure impact (whether quantitative or qualitative) and how and with whom you will share your outputs.
+Vui lòng mô tả về cách bạn dự định đo lường tác động (dù là định lượng hay định tính) và bạn sẽ chia sẻ kết quả đầu ra của mình như thế nào và với ai.
 
 - Sự thành công của dự án của bạn sẽ mang lại giá trị cho Cộng đồng Cardano theo cách nào?
 - Bạn sẽ đo lường tác động này như thế nào?
@@ -183,9 +183,9 @@ Mô tả cột mốc quan trọng, (các) đầu ra của cột mốc đó sẽ 
 
 - Cột mốc 1: Bắt buộc đối với mọi dự án
 - Cột mốc 2: Bắt buộc đối với mọi dự án
-- Milestone 3: Optional depending on amount requested
-- Milestone 4: Optional depending on amount requested
-- Milestone 5: Optional depending on amount requested
+- Cột mốc 3: Tùy chọn tùy theo số tiền đã yêu cầu
+- Cột mốc 4: Tùy chọn tùy theo số tiền đã yêu cầu
+- Cột mốc 5: Tùy chọn tùy theo số tiền đã yêu cầu
 - Cột mốc cuối cùng: Bắt buộc đối với tất cả các dự án
 
 
@@ -194,9 +194,9 @@ Mô tả cột mốc quan trọng, (các) đầu ra của cột mốc đó sẽ 
 
    <summary>TÀI NGUYÊN</summary>
 
-#### Who is in the project team and what are their roles? Please add the relevant Linkedin profiles (or similar) here
+#### Gồm những ai trong nhóm dự án và vai trò của họ là gì? Vui lòng thêm hồ sơ Linkedin có liên quan (hoặc tương tự) tại đây
 
-List your team, their Linkedin profiles (or similar) and state what aspect of the proposal’s work each team member will undertake.<br> ​ If you are planning to recruit additional team members, please state what specific skills you will be looking for in the people you recruit, so readers can see that you understand what skills will be needed to complete the project.<br> ​ You are expected to have already engaged the relevant members of the organizations referenced so you understand if they are willing and/or have capacity to support the project. <br> If you have not taken any steps to engage with your team yet, it is likely that the resources will not be available if you are approved for funding, which can jeopardize the project before it has even begun. The Catalyst team cannot help with this, meaning you are expected to have understood the requirements and engaged the necessary people before submitting a proposal.<br> ​ Have you engaged anyone on any of the technical group channels (eg Discord or Telegram), or do you have a direct line of communications with the people and resources required?<br> ​ ***Important:** Catalyst funding is not anonymous, and some level of ‘proof of life’ verifications will take place before initial funding is released. Also remember that your proposal will be publicly available, so make sure to obtain any consent required before including confidential or third party information.*
+Liệt kê nhóm của bạn, hồ sơ Linkedin của họ (hoặc tương tự) và nêu rõ khía cạnh công việc của đề xuất mà mỗi thành viên trong nhóm sẽ đảm nhận.<br>​ Nếu bạn đang có ý định tuyển dụng thêm thành viên trong nhóm, vui lòng nêu rõ những kỹ năng cụ thể mà bạn đang tìm kiếm ở những người bạn tuyển dụng, để người đọc có thể thấy rằng bạn hiểu những kỹ năng nào sẽ cần thiết để hoàn thành dự án.<br>​ Bạn phải thu hút sự tham gia của các thành viên có liên quan của các tổ chức được giới thiệu để bạn hiểu liệu họ có sẵn lòng và/hoặc có năng lực hỗ trợ dự án hay không.<br> Nếu bạn chưa thực hiện bất kỳ bước nào để tương tác với nhóm của mình, có khả năng là các nguồn lực sẽ không có sẵn nếu bạn được chấp thuận tài trợ, điều này có thể gây nguy hiểm cho dự án trước khi nó bắt đầu. Nhóm Catalyst không thể trợ giúp vấn đề này, nghĩa là bạn phải hiểu các yêu cầu và thu hút những người cần thiết trước khi gửi đề xuất.<br>​Bạn đã thu hút bất kỳ ai trên bất kỳ kênh nào của nhóm kỹ thuật (ví dụ: Discord hoặc Telegram) hay bạn có đường dây liên lạc trực tiếp với những người và nguồn lực được yêu cầu chưa?<br> ***​Quan trọng:** Khoản tài trợ của Catalyst không ẩn danh và một số cấp độ xác minh 'bằng chứng về sự sống' sẽ diễn ra trước khi khoản tài trợ ban đầu được giải ngân. Ngoài ra, hãy nhớ rằng đề xuất của bạn sẽ được công khai, vì vậy hãy đảm bảo nhận được mọi sự đồng ý cần thiết trước khi đưa thông tin bí mật hoặc thông tin của bên thứ ba vào.*
 
 
 
@@ -214,9 +214,9 @@ Xem xét đưa vào các yếu tố ngân sách cho hoạt động quảng bá/t
 
 
 
-### VALUE FOR MONEY
+### GIÁ TRỊ
 
-   <summary>VALUE FOR MONEY </summary>
+   <summary>GIÁ TRỊ</summary>
 
 #### Chi phí của dự án thể hiện giá trị đồng tiền của hệ sinh thái Cardano như thế nào?
 

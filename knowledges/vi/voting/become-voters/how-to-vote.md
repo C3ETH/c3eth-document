@@ -32,7 +32,7 @@ Xem xét tất cả các chi tiết đề xuất để đi đến quyết địn
 
 <image src="https://1213278952-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F1WSgbrgHqq5E9Mh8hoBn%2Fuploads%2FKuWsDlO4Xl720VIm79zh%2F3.png?alt=media&amp;token=cb906f3c-b176-4d7d-a033-fd70b0f67c98"></image>
 
-## Make Selection
+## Đưa ra lựa chọn
 
 Khi bạn đã sẵn sàng đưa ra quyết định về đề xuất, hãy nhấp vào một trong các nút biểu quyết được ghim vào cuối màn hình chi tiết đề xuất. Thao tác này sẽ thêm lựa chọn của bạn vào tab Lựa chọn của tôi, nơi bạn có thể bắt đầu quá trình gửi phiếu bầu. Bạn có thể tiếp tục trực tiếp đến Lựa chọn của tôi sau khi thực hiện lựa chọn của mình hoặc bạn có thể chọn Tiếp tục bỏ phiếu.
 

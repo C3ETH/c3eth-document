@@ -5,13 +5,13 @@ images: []
 weight: '20'
 ---
 
-*This page provides an overview of what Community Reviewers will consider when submitting their opinions*
+*Trang này cung cấp thông tin tổng quan về những gì Người đánh giá cộng đồng nên cân nhắc khi gửi đề xuất ​​của mình*
 
 Người đánh giá cộng đồng sẽ cho điểm mỗi đề xuất từ ​​1-5 cho mỗi tiêu chí trong số ba tiêu chí được liệt kê bên dưới. Họ được yêu cầu nêu ý kiến ​​về việc liệu đề xuất có nêu rõ khả năng cung cấp giải pháp trong bối cảnh ba tiêu chí hay không:
 
-- IMPACT
+- TÁC ĐỘNG
 - NĂNG LỰC &amp; KHẢ THI
-- VALUE FOR MONEY
+- GIÁ TRỊ
 
 > XIN LƯU Ý: Đừng cho rằng mọi Người đánh giá cộng đồng đều có chuyên môn về kỹ thuật hoặc chủ đề.
 

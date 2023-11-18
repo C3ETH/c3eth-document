@@ -14,7 +14,7 @@ Project Catalyst là một công cụ tăng trưởng và một chương trình 
 
 - Các trường hợp sử dụng Cardano: Khái niệm, Giải pháp, Sản phẩm
 - Cardano Open: Nhà phát triển (kỹ thuật) &amp; Hệ sinh thái (phi kỹ thuật)
-- Catalyst Systems Improvements: Discovery &amp; Development
+- Cải tiến hệ thống Catalyst: Khám phá và phát triển
 
 ## Tiêu chí đủ điều kiện - Ai có thể nộp đơn xin tài trợ?
 
@@ -113,7 +113,7 @@ Người đánh giá cộng đồng nên xem xét và đưa ra phản hồi về
 
 Người điều hành quỹ sử dụng tập lệnh tự động để xác định các vấn đề sau để Người điều hành cộng đồng xem xét:
 
-- A similarity script will be run by the Fund Operator looking for similarly worded reviews in the current fund and across previous funds. Generic reviews which do not address specific aspects of a proposal will be flagged and potentially discarded.
+- Một tập lệnh tương tự sẽ được Nhà điều hành Quỹ thực hiện để tìm kiếm các đánh giá có từ ngữ tương tự trong quỹ hiện tại và giữa các quỹ trước đó. Những đánh giá chung chung không đề cập đến các khía cạnh cụ thể của đề xuất sẽ bị gắn cờ và có khả năng bị loại bỏ.
 - Việc kiểm tra độ dài sẽ được hoàn thành. Các bài đánh giá chứa ít hơn 150 ký tự cho từng tiêu chí riêng lẻ hoặc tổng cộng ít hơn 450 ký tự cho mỗi bài đánh giá sẽ bị gắn cờ và có khả năng bị loại bỏ. Một tập lệnh đạo văn sẽ được chạy để tìm kiếm nội dung có từ ngữ tương tự trên internet. Các bài đánh giá không đề cập đến các khía cạnh cụ thể của đề xuất sẽ bị gắn cờ và có khả năng bị loại bỏ.
 - Một tập lệnh tác nhân nhân tạo sẽ do Nhà điều hành Quỹ điều hành để tìm kiếm nội dung do bot hoặc tác nhân AI tạo ra. Những đánh giá này sẽ bị gắn cờ và có khả năng bị loại bỏ.
 - Các bài đánh giá hiển thị bản sao/dán mẫu mà không có sự đóng góp chu đáo về giá trị cụ thể cho đề xuất sẽ bị gắn cờ để xem xét và có khả năng bị loại bỏ.

@@ -6,7 +6,7 @@ images: []
 
 *Đây là những điều kiện tiên quyết bạn cần phải có để tham gia*
 
-- Minimum requirement of 500 ADA *excluding rewards*
+- Cần tối thiểu 500 ADA *không bao gồm phần thưởng*
 - Trước khi đăng ký, bạn phải cài đặt phiên bản mới nhất của ứng dụng Catalyst Voting trên thiết bị di động của mình.
 
 > Tải xuống ứng dụng bỏ phiếu

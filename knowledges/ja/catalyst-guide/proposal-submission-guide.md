@@ -15,7 +15,7 @@ weight: '10'
 
 - 提案草案の提出期限 - 2023 年 11 月 30 日午前 11 時 (UTC)
 
-- Deadline to finalise proposals - December 7, 2023 at 11:00 AM UTC
+- 提案を最終決定する期限 - 2023 年 12 月 7 日午前 11 時 (UTC)
 
 *注: ほとんど空白の提案 (多くの TBD/TBC/近日公開アイテムを含む空のドラフト) または「プレースホルダー」などのタイトルが付いたアイデアは、いつでも予告なくアーカイブされる場合があります。コミュニティが具体的なフィードバックを提供できるように十分なコンテキストを準備してから、下書きを送信してください。*
 
@@ -48,7 +48,7 @@ weight: '10'
 
 ##### adaでリクエストされた資金
 
-Minimum 15k in Ada for all projects
+すべてのプロジェクト最低 15,000ADA
 
 以下の金額はすべて ADA 単位です
 
@@ -94,7 +94,7 @@ Cardano オープン (テクニカル トラックと非テクニカル トラ�
 
 はい・いいえ
 
-> Open Source refers to something people can modify and share because its design is publicly accessible. Open source software is software with source code that anyone can inspect, modify, and enhance. ​ Conversely, only the original authors of proprietary software can legally copy, inspect, and alter that software.
+> オープンソースとは、その設計が公的にアクセスできるため、人々が変更したり共有したりできるものを指します。オープンソース ソフトウェアは、誰でも検査、変更、拡張できるソース コードを備えたソフトウェアです。逆のケースは、プロプライエタリなソフトウェアのオリジナルの作成者だけが、そのソフトウェアを合法的にコピー、検査、変更できる場合です。
 
 ##### プロジェクト出力のオープンソース ステータスに関する詳細情報をここに提供してください
 

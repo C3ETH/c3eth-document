@@ -19,8 +19,8 @@ images: []
 
 Cardano Open: 開発者 (技術) は、次のようなプロジェクトに資金を提供しません。
 
-- do not develop new code or contribute to or support existing open-source developers. For example, a learning resource guide to developing on Plutus, Marlowe, or other smart contracts platforms like Aiken. In this case, the Cardano Open non-developers
-- are inherently non-technical (For example, a community event or hackathon to bring more developers or users to Cardano. In that case, it should apply to the Cardano Open: Ecosystem - non-technical track.)
+- 新しいコードを開発したり、既存のオープンソース開発者に貢献したりサポートしたりしないでください。たとえば、Plutus、Marlowe、または Aiken などの他のスマート コントラクト プラットフォームで開発するための学習リソース ガイドについては、Cardano Open 非技術の枠が当てはまります。
+- 本質的に非技術的なもの (たとえば、より多くの開発者やユーザーを Cardano に呼び込むためのコミュニティ イベントやハッカソン。その場合は、Cardano Open: Ecosystem - 非技術トラックが適用される必要があります。)
 - オープンソースではなく、独自のソフトウェア、ハードウェア、またはデータを作成しています。
 
 ## F11 プロポーザルのマイルストーンを送信する
@@ -37,4 +37,4 @@ Cardano Open: 開発者 (技術) は、次のようなプロジェクトに資�
 
 これには、各マイルストーンの受け入れ基準、各マイルストーンの納品日と費用、各マイルストーン後にレビューのために提出する証拠に関する詳細の提供が含まれます。
 
-When defining your milestones, consider that you are effectively presenting a simplified project delivery plan.
+マイルストーンを定義するときは、簡素化されたプロジェクト実施計画を効果的に提示していることを確認してください。

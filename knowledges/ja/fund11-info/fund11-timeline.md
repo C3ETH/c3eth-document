@@ -42,7 +42,7 @@ Fund11 が市庁舎 #146 で発足
 
 ### 2024 年 1 月 25 日 · 11:00 UTC
 
-Fund11 voting begins ending on Feb 8th, 11:00 UTC
+Fund11 の投票が開始され 2 月 8 日の 11:00 UTC に終了します
 
 ### 2024年2月15日頃
 

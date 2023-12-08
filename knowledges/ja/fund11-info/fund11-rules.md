@@ -14,7 +14,7 @@ Project Catalyst は、カルダノ エコシステムの成長エンジンお�
 
 - Cardano の使用例: コンセプト、ソリューション、製品
 - Cardano Open: 開発者 (技術的) およびエコシステム (非技術的)
-- Catalyst Systems Improvements: Discovery &amp; Development
+- Catalystシステムの改善: 発見と開発
 
 ## 資格基準 - 誰が資金を申請できますか?
 
@@ -26,7 +26,7 @@ Cardano エコシステムにプラスの影響を与えるアイデアを持つ
 
 (iii) Fund8 以降で資金提供された 5 つ以上のアクティブなプロジェクトを持つ申請者は、Fund11 に基づいて新しい提案を提出する前の 6 か月間で、アクティブな各プロジェクトについて少なくとも 3 つの月次レポートを提出した場合にのみ資金提供を受ける資格があります。
 
-(iv) No Catalyst Participant may be subject of any sanctions administered or enforced by the U.S. Department of Treasury’s Office of Foreign Assets Control (the “OFAC”), the United Nations Security Council (the “UNSC”), the European Union, Her Majesty’s Treasury (the “HMT”), or other relevant sanctions authority (collectively, “Sanctions”), or be located, organized or resident in a country or territory that is the subject of country-wide or territory-wide Sanctions.
+(iv) Catalyst参加者は、米国財務省外国資産管理局 (「OFAC」)、国連安全保障理事会 (「UNSC」)、欧州連合によって管理または強制される制裁の対象となることはできません。財務省（「HMT」）、またはその他の関連する制裁当局（総称して「制裁」）、または国全体または領土全体の制裁の対象となっている国または地域に所在、組織または居住していること。
 
 ## 資金提供: Project Catalyst はどのような種類のプロジェクトに資金提供していますか?
 
@@ -67,7 +67,7 @@ Project Catalyst は、Cardano エコシステムにプラスの影響を与え�
 
 資金の最小および最大の上限は、特定のラウンドで資金が提供される可能性が高いプロジェクトの数の予測可能性を高めるのに役立ち、コミュニティのレビュー担当者がプロジェクトの説明責任管理に参加するための継続的なコストの見積もりをサポートします。コミュニティのレビュー担当者のプールは、マイルストーンの検証に役立ちます。達成されており、その貢献に対して報酬が与えられます。
 
-Introducing a minimum and maximum funding levels and maximum project length also helps to avoid scenarios whereby very large sums are approved without voters' confidence and truly understanding the feasibility of highly complex, multi-year technical projects or in cases where proposals request very small amounts of funding which cannot deliver genuine value to the Cardano ecosystem.
+資金調達額の下限と上限、およびプロジェクトの長さの上限を導入することで、非常に複雑で複数年にわたる技術的なプロジェクトの実現可能性を投票者が信頼し、真に理解することなく非常に多額の資金が承認されるシナリオや、カルダノのエコシステムに真の価値を提供できない非常に少額の資金を提案者が要求するケースを回避することができます。
 
 資金は助成金のみで提供されます。融資などの代替資金調達の取り決めを要求する提案は失格となります。
 

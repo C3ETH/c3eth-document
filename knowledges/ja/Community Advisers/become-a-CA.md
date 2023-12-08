@@ -5,7 +5,7 @@ images: []
 weight: '10'
 ---
 
-As a Community Reviewer (previously referred to as Proposal Assessor) you play an important role in the Catalyst funding process by providing your opinion as an input to voters who may use your feedback about a proposal to help make their decisions whether to vote for the proposal or not.
+コミュニティレビュー担当者 (以前は提案評価者と呼ばれていました) として、あなたは、提案に関するあなたのフィードバックを、提案に投票するかどうかの決定に役立てる可能性のある有権者にインプットとして意見を提供することで、Catalyst の資金調達プロセスにおいて重要な役割を果たします。
 
 > コミュニティのレビュー担当者は、Cardano エコシステムにまったく慣れていない場合もあれば、Cardano と Catalyst に長年関わってきたベテランである場合もあります。
 
@@ -39,5 +39,5 @@ LV1 のレビュー担当者は、割り当てられた 80 レビューを超え
 コミュニティのレビュー担当者は、以下のレビューやモデレートを控えるべきです。
 
 - 独自の提案とレビュー、
-- a proposal where they are engaged as an advisor, mentor, or otherwise substantially involved in the execution phase of such proposal, or
+- アドバイザー、メンターとして従事するか、またはそのような提案の実行段階に実質的に関与する提案。
 - 提出した提案と同じ課題カテゴリ内の他の提案およびレビュー、またはそのような提案の実行にアドバイザー、指導者として関与した、またはその他の方法で実質的に関与した提案と同じ課題カテゴリー内のレビュー。

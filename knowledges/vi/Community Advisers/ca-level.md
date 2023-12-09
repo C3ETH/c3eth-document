@@ -43,12 +43,14 @@ Người điều hành cộng đồng sẽ không thay đổi đánh giá hoặc
 
 ### Phần thưởng LV0
 
-Người đánh giá LV0 sẽ nhận được tối đa **17 ada cho mỗi lần đánh giá** . Số tiền này có thể ít hơn nếu có thêm nhiều đánh giá được hoàn thành bởi người đánh giá LV0 khi lượng đánh giá LV1 bổ sung vượt quá mức phân bổ tự động của người đánh giá LV1 được thêm vào nhóm đánh giá LV0.
+Người đánh giá LV0 sẽ nhận được *tối đa 25 ada cho mỗi lần đánh giá* . Số tiền này có thể ít hơn nếu người đánh giá LV0 hoàn thành nhiều đánh giá hơn. LV0 chỉ được thưởng khi đánh giá được phân bổ. Để nhận được phần thưởng, LV0 phải có ít nhất 10 đánh giá hợp lệ. Phần thưởng LV0 được trao bao gồm vô số đánh giá LV1 bổ sung vượt quá mức tự động phân bổ của người đánh giá LV1, được thêm vào nhóm đánh giá đã xuất bản LV0.
 
 ### Phần thưởng LV1
 
-LV1 có thể mong đợi số tiền cố định là **33 ada cho mỗi lần đánh giá được phân bổ** . Nếu người đánh giá LV1 muốn thực hiện nhiều đánh giá hơn ngoài mức phân bổ được chỉ định thì mỗi đánh giá bổ sung sẽ được trả thưởng như một phần của phần thưởng LV0.
+LV1s can expect a *fixed amount of 50 ada per allocated review*. If the LV1 reviewer wants to perform more reviews beyond the assigned allocation, then every additional published review will be compensated for the LV0 pot of rewards. To receive rewards, LV1 must have at least 10 valid reviews, including assigned and additional reviews. Any number of reviews under this amount will not be rewarded.
+
+> An LV0/LV1 reviewer is excluded (and will not receive rewards) if their work doesn't meet a 35% approval rate (with a minimum sample of 5 moderated reviews) after the moderation stage.
 
 ### Phần thưởng LV2
 
-LV2 có thể mong đợi nhận được tối đa **5 ada cho mỗi lần kiểm tra cờ** . Nỗ lực ở đây dự kiến ​​sẽ đơn giản và nhanh chóng được thực hiện cho mỗi đánh giá bị gắn cờ.
+LV2s can expect to receive a *maximum of 5 ada per flag check*. The effort here is anticipated to be straightforward and quick for each flagged review.

@@ -8,7 +8,7 @@ weight: '50'
 Tất cả các bài đánh giá mà Người đánh giá cộng đồng cung cấp sẽ phải tuân theo quy trình đánh giá tự động bằng cách sử dụng Cờ Catalyst. Cờ xúc tác* là những đoạn mã được gọi là tập lệnh được chạy để phân tích tất cả đánh giá của Người đánh giá cộng đồng. Tập lệnh Catalyst sẽ treo cờ trong trường hợp;
 
 - Điểm tương đồng ~ các đánh giá giống hệt hoặc gần giống với đánh giá đã gửi trước đó
-- Profanity ~ reviews that contain profanities or abusive content or language
+- Thô lỗ ~ bài đánh giá có chứa nội dung hoặc ngôn ngữ tục tĩu hoặc lạm dụng
 - Việc sử dụng AI ~ các bài đánh giá không phản ánh quan điểm của Người đánh giá cộng đồng hoặc do người khác hoặc đại lý AI thay mặt họ cung cấp.
 
 > Yêu cầu về độ dài đã được áp dụng tự động (các bài đánh giá chứa ít hơn 150 ký tự về tiêu chí tác động, tính khả thi và giá trị đồng tiền)
@@ -27,10 +27,10 @@ Tất cả các bài đánh giá đã bị gắn cờ sẽ trải qua quy trình
 
     1. Không có vấn đề rõ ràng khi xem xét
     2. Tôi tin rằng đây không phải là ý kiến ​​riêng của mỗi người
-    3. There is profanity
+    3. Chứa từ ngữ thô tục
     4. Có quá nhiều điểm tương đồng với một đánh giá khác
     5. Lý do không tương ứng với số điểm đưa ra
-    6. Rationale contains a false statement
+    6. Cơ sở lý luận có không hợp lí
 
 - Nếu Người điều hành không đồng ý với việc gắn cờ và tin rằng nên đưa đánh giá đó vào để cử tri xem xét, họ sẽ đánh dấu nó là HỢP LỆ và đưa ra lý do căn bản.
 

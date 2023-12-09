@@ -1,6 +1,6 @@
 ---
-title: Voting registration
-draft: 'false'
+title: 'Voting registration'
+draft: false
 images: []
-weight: '10'
+weight: 10
 ---

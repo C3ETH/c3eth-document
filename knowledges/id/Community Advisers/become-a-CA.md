@@ -1,12 +1,13 @@
 ---
 title: Bagaimana cara menjadi Peninjau Komunitas?
-date: "06-06-2022 08:48:23 +0000"
-lastmod: "07-08-2023 08:48:23 +0000"
 draft: 'false'
 images: []
+weight: '10'
 ---
 
-Halaman ini menjelaskan langkah-langkah dan informasi penting untuk mengikuti tahap Tinjauan Komunitas
+Sebagai Peninjau Komunitas (sebelumnya disebut sebagai Penilai Proposal), Anda memainkan peran penting dalam proses pendanaan Catalyst dengan memberikan pendapat Anda sebagai masukan kepada pemilih yang mungkin menggunakan masukan Anda tentang sebuah proposal untuk membantu mereka mengambil keputusan apakah akan memilih proposal tersebut. atau tidak.
+
+> Peninjau komunitas bisa jadi adalah orang-orang baru di ekosistem Cardano atau mereka mungkin adalah veteran yang sudah lama terlibat dengan Cardano dan Catalyst.
 
 ## LV0 - Peninjau Komunitas Baru
 
@@ -32,3 +33,11 @@ Peninjau Komunitas yang berpengalaman harus mengikuti panduan dan langkah-langka
 - Ketika peninjau LV1 memilih untuk meninjau proposal di luar alokasi yang ditentukan, peninjauan tersebut akan tetap dihitung (dengan syarat melewati tahap penandaan dan LV2) dan hadiah untuk peninjau tambahan ini akan dihitung sebagai bagian dari pot hadiah LV0
 
 Seorang reviewer LV1 dapat melakukan lebih dari alokasi 80 review. Hadiah untuk setiap ulasan di atas dan di luar alokasi akan dibayarkan sebagai bagian dari kumpulan ulasan LV0. Ulasan berlebih tersebut juga akan memiliki bobot skor yang lebih rendah sebagaimana diuraikan di bagian rumus bobot skor.
+
+## Konflik kepentingan
+
+Peninjau Komunitas harus berhenti melakukan peninjauan dan moderasi:
+
+- proposal dan ulasan mereka sendiri,
+- proposal dimana mereka dilibatkan sebagai penasihat, mentor, atau terlibat secara substansial dalam tahap pelaksanaan proposal tersebut, atau
+- proposal dan peninjauan lainnya dalam kategori tantangan yang sama dengan proposal yang telah mereka ajukan atau terlibat dengannya sebagai penasihat, mentor, atau terlibat secara substansial dalam pelaksanaan proposal tersebut.

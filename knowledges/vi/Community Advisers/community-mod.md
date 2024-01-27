@@ -1,8 +1,8 @@
 ---
-title: Quy trình kiểm duyệt cộng đồng
-draft: 'false'
+title: 'Quy trình kiểm duyệt cộng đồng'
+draft: false
 images: []
-weight: '50'
+weight: 50
 ---
 
 Tất cả các bài đánh giá mà Người đánh giá cộng đồng cung cấp sẽ phải tuân theo quy trình đánh giá tự động bằng cách sử dụng Cờ Catalyst. Cờ xúc tác* là những đoạn mã được gọi là tập lệnh được chạy để phân tích tất cả đánh giá của Người đánh giá cộng đồng. Tập lệnh Catalyst sẽ treo cờ trong trường hợp;

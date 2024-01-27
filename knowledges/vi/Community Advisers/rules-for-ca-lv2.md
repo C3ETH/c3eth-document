@@ -1,8 +1,8 @@
 ---
-title: Các quy tắc mà Người điều hành cộng đồng phải tuân theo (LV2)
-draft: 'false'
+title: 'Các quy tắc mà Người điều hành cộng đồng phải tuân theo (LV2)'
+draft: false
 images: []
-weight: '60'
+weight: 60
 ---
 
 - Tất cả các đánh giá phải được cung cấp cho người bỏ phiếu nếu Người điều hành cộng đồng có lý do chính đáng để không đưa nó vào.

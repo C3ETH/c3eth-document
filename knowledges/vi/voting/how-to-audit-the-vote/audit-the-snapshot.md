@@ -7,19 +7,19 @@ images: []
 weight: '30'
 ---
 
-## Parameters
+## Thông số
 
-Registration Deadline: Jan 15, 2024 21:45:00 UTC
+Hạn chót đăng ký: 15 tháng 1 năm 2024 21:45:00 UTC
 
-Minimum Voting Power:  450 ADA.
+Quyền biểu quyết tối thiểu: 450 ADA.
 
 ## Công cụ bắt buộc
 
 ### dbSync
 
-Installation instructions can be found [here](https://github.com/IntersectMBO/cardano-db-sync/blob/master/doc/docker.md).
+Hướng dẫn cài đặt có thể được tìm thấy [ở đây](https://github.com/IntersectMBO/cardano-db-sync/blob/master/doc/docker.md) .
 
-Ensure dbSync and the PostgreSQL database are running, and the database is synchronized past 21:45:00 UTC on the 20th of January 2024.
+Đảm bảo dbSync và cơ sở dữ liệu PostgreSQL đang chạy và cơ sở dữ liệu được đồng bộ hóa trước 21:45:00 UTC vào ngày 20 tháng 1 năm 2024.
 
 Lưu ý: *NẾU dbSync của bạn không được đồng bộ hóa ít nhất vào ngày này, kết quả từ việc chạy snapshot sẽ không chính xác. Điều này là do snapshot được chụp vào thời điểm khi việc khôi phục trên blockchain không thể ảnh hưởng đến dữ liệu snapshot và do đó nó có thể tái tạo hoàn toàn và ổn định. Điều này được đảm bảo bằng cách đặt một Kỷ nguyên đầy đủ trong khoảng thời gian từ thời hạn đăng ký đến thời điểm snapshot cuối cùng sớm nhất có thể.*
 
@@ -27,7 +27,7 @@ Lưu ý: *NẾU dbSync của bạn không được đồng bộ hóa ít nhất 
 
 Công cụ snapshot có ở [đây](https://github.com/input-output-hk/catalyst-core) . Sao chép repo và sau đó xây dựng các công cụ cần thiết.
 
-### Building the tools
+### Xây dựng các công cụ
 
 ##### snapshot_tool:
 
@@ -51,9 +51,9 @@ Kiểm tra snapshot chỉ đơn giản là sao chép snapshot trực tiếp từ
 
 ### Lấy số cho Thời hạn đăng ký
 
-Getting the `slot_no` aligned with the registration deadline.
+Lấy `slot_no` phù hợp với thời hạn đăng ký.
 
-Query the dbSync database with:
+Truy vấn cơ sở dữ liệu dbSync bằng:
 
 ```
 
@@ -63,7 +63,7 @@ select slot_no, time from block
 
 ```
 
-The result will be:
+Kết quả sẽ là:
 
 ```
 
@@ -77,9 +77,9 @@ Do đó, `slot#` mà snapshot cần nhắm mục tiêu là: 113788796
 
 Phần đầu tiên của snapshot tích lũy thông tin đăng ký thô và thông tin đặt cọc và xác thực nó theo [CIP-15](https://cips.cardano.org/cip/CIP-15/) và [CIP-36](https://cips.cardano.org/cip/CIP-36/)
 
-Note: *Multiple delegations, as specified by CIP-36, are not supported.  These will be detected as invalid registrations.  Only registrations that contain a single voting key are supported and valid.*
+Lưu ý: *Nhiều ủy quyền, như được chỉ định bởi CIP-36, không được hỗ trợ. Những điều này sẽ được phát hiện là đăng ký không hợp lệ. Chỉ những đăng ký có chứa một khóa biểu quyết duy nhất mới được hỗ trợ và hợp lệ.*
 
-Run (replace your credentials as appropriate):
+Chạy (thay thế thông tin đăng nhập của bạn cho phù hợp):
 
 ```
 
@@ -90,17 +90,17 @@ export DBSYNC_POSTGRES="localhost:5432"
 
 ```
 
-This will produce three files:
+Điều này sẽ tạo ra ba tập tin:
 
 - `cexplorer-113788796.json` &lt;- Dữ liệu snapshot thô
-- `cexplorer-113788796.unregistered.json` &lt;- Unregistered but staked ADA.
-- `cexplorer-113788796.errors.json` &lt;- Errors or Obsolete registrations.
+- `cexplorer-113788796.unregistered.json` &lt;- Chưa đăng ký nhưng đã đặt cược ADA.
+- `cexplorer-113788796.errors.json` &lt;- Lỗi hoặc đăng ký lỗi thời.
 
-### Processing the snapshot with Fund 11 parameters
+### Xử lý ảnh chụp nhanh với tham số Fund 11
 
-This filters registrations for minimum allowed voting power:
+Điều này lọc đăng ký để có quyền biểu quyết tối thiểu được phép:
 
-Run:
+Chạy:
 
 ```
 

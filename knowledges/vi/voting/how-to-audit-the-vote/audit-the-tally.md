@@ -6,7 +6,7 @@ draft: 'false'
 images: []
 ---
 
-Follow the instructions in the video below to replay the vote and verify that the tally matches the official results:
+Hãy làm theo hướng dẫn trong video bên dưới để phát lại phiếu bầu và xác minh rằng kết quả kiểm phiếu khớp với kết quả chính thức:
 
 [https://github.com/input-output-hk/catalyst-core/tree/main/src/audit](https://github.com/input-output-hk/catalyst-core/tree/main/src/audit)
 

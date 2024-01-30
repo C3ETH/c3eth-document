@@ -7,11 +7,11 @@ images: []
 weight: '10'
 ---
 
-With snapshots of the voting ledger published hourly, anyone can verify that recorded votes remain unchanged across the voting lifecycle.
+Với snapshot của sổ cái biểu quyết được công bố hàng giờ, bất kỳ ai cũng có thể xác minh rằng các phiếu bầu được ghi lại không thay đổi trong suốt vòng đời biểu quyết.
 
-The Catalyst team provides access to routine snapshots of the blockchain state. These snapshots are automatically taken at 1-hour intervals and uploaded to a persistent storage system in the form of an archive. Currently, these archives can be found by [querying the Archive API](https://archiver.projectcatalyst.io/api/v1/archives/) . You can learn more about the available endpoints by inspecting the [Swagger documentation](https://archiver.projectcatalyst.io/swagger/index.html)
+Nhóm Catalyst cung cấp quyền truy cập vào snapshot thường xuyên của trạng thái blockchain. Những snapshot này được chụp tự động trong khoảng thời gian 1 giờ và được tải lên hệ thống lưu trữ liên tục dưới dạng kho lưu trữ. Hiện tại, bạn có thể tìm thấy các kho lưu trữ này bằng cách [truy vấn API lưu trữ](https://archiver.projectcatalyst.io/api/v1/archives/) . Bạn có thể tìm hiểu thêm về các điểm cuối có sẵn bằng cách kiểm tra [tài liệu Swagger](https://archiver.projectcatalyst.io/swagger/index.html)
 
-To show an example of how to interact with the API and download an archive, we will use the curl and jq CLI tools. First, we must list the available archives:
+Để hiển thị ví dụ về cách tương tác với API và tải xuống kho lưu trữ, chúng ta sẽ sử dụng các công cụ Curl và jq CLI. Đầu tiên, chúng ta phải liệt kê các kho lưu trữ có sẵn:
 
 ```json
 
@@ -62,7 +62,7 @@ To show an example of how to interact with the API and download an archive, we w
 
 Trong phản hồi ở trên, chỉ có ba kho lưu trữ có sẵn. Nếu số lượng kết quả vượt quá 50, chúng sẽ tự động được phân trang. Điều này được thể hiện rõ qua trường tiếp theo được đặt. Để tìm nạp các bản lưu trữ tiếp theo, bạn sẽ gọi cùng một điểm cuối và nối thêm ?next={VALUE} trong đó VALUE là giá trị của trường tiếp theo. Để lặp lại tất cả các kho lưu trữ có sẵn, bạn có thể lặp lại quy trình này cho đến khi trường tiếp theo trống.
 
-For this example, we'll choose to fetch the first archive in the list. To get a link for downloading the archive, we can run:
+Trong ví dụ này, chúng ta sẽ chọn tìm nạp kho lưu trữ đầu tiên trong danh sách. Để có được liên kết tải xuống kho lưu trữ, chúng ta có thể chạy:
 
 ```json
 
@@ -82,7 +82,7 @@ For this example, we'll choose to fetch the first archive in the list. To get a 
 
 ```
 
-We save the file as a `.tar` `.zstd` archive because this is how the contents were archived. If you look back at the API response, you'll see the compression and packaging fields were set to `zstd` and tar respectively. We can use these fields to determine the process for extracting the archive. To extract the contents, we'll need to use the `.tar` and `.zstd` CLIs:
+Chúng ta lưu tệp dưới dạng kho lưu trữ `.tar` `.zstd` vì đây là cách nội dung được lưu trữ. Nếu nhìn lại kết quả API, bạn sẽ thấy các trường nén và đóng gói lần lượt được đặt thành `zstd` và tar. Chúng tôi có thể sử dụng các trường này để xác định quy trình giải nén kho lưu trữ. Để trích xuất nội dung, chúng ta sẽ cần sử dụng CLI `.tar` và `.zstd` :
 
 ```
 
@@ -105,4 +105,4 @@ volatile/snap.00000003A7319A1C
 
 ```
 
-We now have a complete snapshot of the blockchain state on our local filesystem.
+Bây giờ chúng tôi có snapshot hoàn chỉnh về trạng thái blockchain trên hệ thống tệp cục bộ của chúng ta.

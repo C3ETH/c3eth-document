@@ -6,103 +6,103 @@ draft: 'false'
 images: []
 ---
 
-## Learn how Midnight protects users’ data using zero-knowledge technology
+## Midnight がゼロ知識テクノロジーを使用してユーザーのデータを保護する方法を学ぶ
 
-Frequent data breaches have revealed stark vulnerabilities in data protection, both for individuals and organizations. Zero-knowledge (ZK) technology provides a great solution, prioritizing user empowerment and data protection while removing intermediary control. However, mastering blockchain and cryptography complexities while complying with local regulations can be still challenging.
+頻繁に発生するデータ侵害により、個人と組織の両方において、データ保護における重大な脆弱性が明らかになりました。ゼロ知識 (ZK) テクノロジーは、中間制御を排除しながら、ユーザーの権限付与とデータ保護を優先する優れたソリューションを提供します。ただし、現地の規制を遵守しながらブロックチェーンと暗号化の複雑さを習得することは依然として困難な場合があります。
 
-Midnight provides the tools to build DApps that provide data protection for users and entrepreneurs, striking a balance between data disclosure and legal protection. Midnight’s features empower users to conduct commercial transactions with minimal risk of data misuse, fostering compliance with data protection laws and protecting user data from leakage.
+Midnight は、ユーザーや起業家にデータ保護を提供し、データ開示と法的保護のバランスをとる DApp を構築するツールを提供します。 Midnight の機能により、ユーザーはデータ悪用のリスクを最小限に抑えながら商取引を行うことができ、データ保護法の遵守を促進し、ユーザーデータを漏洩から保護します。
 
-Midnight achieves this by utilizing ZK technology. Read on to learn more about ZK – the underlying tech driving Midnight’s data protection capabilities.
+Midnight は ZK テクノロジーを活用することでこれを実現します。 Midnight のデータ保護機能を推進する基盤技術である ZK について詳しく知りたい方は、以下をお読みください。
 
-## What is zero-knowledge technology?
+## ゼロ知識技術とは何ですか？
 
-ZK is a method of verifying information without actually revealing it. Midnight uses ZK to enhance privacy, security, and scalability of blockchain operations by enabling confidential transactions and smart contracts, and secure data management.
+ZK は、実際に情報を明らかにすることなく情報を検証する方法です。 Midnight は ZK を使用して、機密トランザクションとスマート コントラクト、および安全なデータ管理を可能にすることで、ブロックチェーン操作のプライバシー、セキュリティ、スケーラビリティを強化します。
 
-ZK involves two parties: a prover and a verifier. The prover holds confidential information they don’t want to disclose, yet they can produce evidence to the verifier that certain statements with regard to this information are true without sharing the actual information. For this, the system generates a zero-knowledge proof (ZKP) as validation.
+ZK には、証明者と検証者の 2 つの当事者が関与します。証明者は開示したくない機密情報を保持していますが、実際の情報を共有することなく、この情報に関する特定の記述が真実であるという証拠を検証者に提示できます。このために、システムは検証としてゼロ知識証明 (ZKP) を生成します。
 
-### An example of using a ZKP
+### ZKPの使用例
 
-Imagine a situation where you need to prove a medical condition you have, without revealing any private details. This situation could come up in scenarios like applying for insurance or disclosing health information to an employer. With ZKPs, you can generate evidence that your medical condition is valid, without sharing any personal information.
+個人的な詳細を明かすことなく、自分が患っている病状を証明する必要がある状況を想像してみてください。この状況は、保険の申請や雇用主への健康情報の開示などのシナリオで発生する可能性があります。 ZKP を使用すると、個人情報を共有することなく、自分の病状が正当であるという証拠を生成できます。
 
-For example, let's say you're applying for health insurance. The insurance company needs to verify your pre-existing medical condition to determine your coverage. Instead of exposing all your medical history, an application would use ZKPs to create a proof that only confirms the existence of the condition. This proof is then shared with the insurer, who can validate its authenticity without knowing the exact details of your ailment.
+たとえば、健康保険に加入しているとします。保険会社は、適用範囲を決定するために、あなたの既存の病状を確認する必要があります。すべての病歴を公開する代わりに、アプリケーションは ZKP を使用して、状態の存在のみを確認する証拠を作成します。この証明は保険会社と共有され、保険会社はあなたの病気の正確な詳細を知らなくても、その証明が本物であることを検証できます。
 
-In this way, ZKPs ensure that you can establish the truth about your medical condition without compromising your privacy. This same principle applies to various other situations where you need to prove something without disclosing personal information.
+このようにして、ZKP はプライバシーを侵害することなく、自分の病状についての真実を確立できるようにします。これと同じ原則が、個人情報を開示せずに何かを証明する必要がある他のさまざまな状況にも当てはまります。
 
-## Zero-knowledge proofs explained
+## ゼロ知識証明の説明
 
-There are different types of ZKPs, which differ in performance and cryptographic assumptions. Zero-knowledge succinct non-interactive arguments of knowledge (ZK Snarks) and succinct transparent arguments of knowledge (ZK Starks) are some of the most popular proof systems in blockchain.
+ZKP にはさまざまな種類があり、パフォーマンスと暗号化の前提が異なります。ゼロ知識の簡潔な非対話型知識引数 (ZK Snarks) と簡潔で透明な知識引数 (ZK Starks) は、ブロックチェーンで最も人気のある証明システムの一部です。
 
-ZK Snarks are efficient proofs in terms of their size and verification time. They can conceal the data used to generate the proof, which provides efficiency, strong security guarantees, and data protection. ZK Starks require only a trusted hash function during setup, which offers benefits in terms of security and prover running time, but can result in performance overhead with respect to the proof size and verifier.
+ZK Snarks は、サイズと検証時間の点で効率的な証明です。証明の生成に使用されたデータを隠すことができるため、効率性、強力なセキュリティ保証、およびデータ保護が実現します。 ZK Starks は、セットアップ中に信頼できるハッシュ関数のみを必要とするため、セキュリティと証明者の実行時間の点で利点がありますが、証明のサイズと検証者の点でパフォーマンスのオーバーヘッドが発生する可能性があります。
 
-Midnight utilizes ZK Snarks as the most appealing proof system for verifiers due to its combination of efficiency with robust security settings.
+Midnight は、効率性と堅牢なセキュリティ設定の組み合わせにより、検証者にとって最も魅力的な証明システムとして ZK Snarks を利用しています。
 
-## How do ZK Snarks work?
+## ZKスナークスはどのように機能しますか?
 
-Because ZK Snarks are non-interactive arguments of knowledge, they allow a prover to demonstrate the truth of a statement without the need for ongoing interaction with a verifier. This enables the prover to generate a compact proof that can be independently validated by the verifier, without revealing any sensitive information. Proof generation and verification involve intricate mathematical operations and structures, such as elliptic curve pairings and advanced algebraic techniques.
+ZK Snarks は非対話型の知識の議論であるため、証明者は検証者との継続的な対話を必要とせずにステートメントの真実性を証明できます。これにより、証明者は機密情報を漏らすことなく、検証者が独立して検証できるコンパクトな証明を生成できます。証明の生成と検証には、楕円曲線ペアリングや高度な代数技術などの複雑な数学的演算と構造が含まれます。
 
-The high-level process looks as follows:
+高レベルのプロセスは次のようになります。
 
 <image src="https://cdn.sanity.io/images/330xhmya/production/403fc22c1ca16fc018a0509fb0b35025cd486dcb-1920x1080.jpg?w=3840"></image><br>
 
-Here is a more detailed explanation of how ZK Snarks work:
+ZK Snarks がどのように機能するかの詳細な説明は次のとおりです。
 
-- **Setup phase**. Similar to other cryptographic protocols, ZK Snarks begin with a setup phase by establishing certain parameters, the generation of public proving and verifying keys, for example. These parameters play a crucial role in the security and functioning of the scheme.
-- **Key components**. ZK Snarks involve several key components, including elliptic curve pairings (mathematical structures used in cryptography to secure data) and specialized hash functions (tools that transform data into fixed-size values, like a unique digital fingerprint of information). These components contribute to the creation of succinct and highly efficient proofs. Think of those as puzzle pieces that fit together perfectly to create proofs that are short and efficient.
-- **Circuit construction**. Imagine building a road with different signs and paths. Circuit construction is like a roadmap with a mathematical representation of the problem to be solved translated into an arithmetic circuit. This circuit encompasses various operations and constraints related to the statement being proven.
-- **Witness and proof generation**. The prover, who possesses a secret (the ‘witness’) related to the statement, constructs a ZK Snarks proof. This involves a series of cryptographic operations combined with the circuit's constraints and the public parameters from the setup phase. The result is a compact proof, attesting to the statement's truth without revealing any details about the witness.
-- **Verification**. The verifier, armed with the proof, the public parameters, and the original statement, can now efficiently verify the proof's validity. This process involves mathematical computations that confirm the proof's correctness, ensuring that the prover indeed possesses the correct witness for the statement.
+- **セットアップ段階**。他の暗号化プロトコルと同様に、ZK Snarks は、特定のパラメーターを確立するセットアップ フェーズから始まり、公開証明キーと検証キーの生成などを行います。これらのパラメータは、スキームのセキュリティと機能において重要な役割を果たします。
+- **主要コンポーネント**。 ZK Snarks には、楕円曲線ペアリング (データを保護するための暗号化で使用される数学的構造) や特殊なハッシュ関数 (情報の一意のデジタル指紋など、データを固定サイズの値に変換するツール) など、いくつかの重要なコンポーネントが含まれます。これらのコンポーネントは、簡潔で効率の高い証明の作成に貢献します。これらは、短く効率的な証明を作成するために完璧に組み合わされるパズルのピースであると考えてください。
+- **回路構築**。さまざまな標識や道を備えた道路を建設することを想像してください。回路構築は、解決すべき問題の数学的表現を演算回路に変換したロードマップのようなものです。この回路には、証明されるステートメントに関連するさまざまな操作と制約が含まれます。
+- **証人と証拠の生成**。ステートメントに関連する秘密 (「証人」) を所有する証明者は、ZK Snarks の証明を構築します。これには、回路の制約とセットアップ段階からの公開パラメータを組み合わせた一連の暗号化操作が含まれます。その結果、証人に関する詳細を明らかにすることなく、陳述の真実を証明するコンパクトな証拠が得られます。
+- **検証**。検証者は、証明、公開パラメータ、および元のステートメントを備えて、証明の有効性を効率的に検証できるようになりました。このプロセスには、証明の正しさを確認する数学的計算が含まれ、証明者がその陳述について正しい証人を実際に持っていることを確認します。
 
-## What are the benefits of ZK Snarks in Midnight?
+## Midnight の ZK Snarks の利点は何ですか?
 
-The use of ZK Snarks in Midnight provides users with the following benefits:
+ZK Snarks in Midnight を使用すると、ユーザーに次の利点があります。
 
 <image src="https://cdn.sanity.io/images/330xhmya/production/772f3105ddaa86e1f9644ea209f424e766890c4b-1920x1080.jpg?w=3840"></image><br>
 
-## Use cases
+## ユースケース
 
-ZK Snarks support different use cases (non-exhaustive):
+ZK Snarks はさまざまなユースケースをサポートしています (すべてを網羅しているわけではありません)。
 
-#### Data protection
+#### データ保護
 
-**Confidential smart contracts and payments**
+**機密のスマートコントラクトと支払い**
 
-- secure execution of confidential smart contracts
-- compliance with predefined rules while safeguarding sensitive information
-- seamless integration of confidential payments for multi-assets and NFTs with smart contracts
+- 機密スマートコントラクトの安全な実行
+- 機密情報を保護しながら、事前定義されたルールを遵守します
+- マルチアセットおよびNFTの機密支払いとスマートコントラクトのシームレスな統合
 
-**Data management**
+**データ管理**
 
-- validation of user data without sharing it
-- protected user identities and data authenticity
+- ユーザーデータを共有せずに検証する
+- 保護されたユーザー ID とデータの信頼性
 
-**Voting**
+**投票**
 
-- secure and confidential voting processes
-- proven eligibility without revealing identities or preferences
-- governance integrity, reducing risks of coercion or manipulation
+- 安全かつ機密性の高い投票プロセス
+- 身元や好みを明らかにすることなく資格を証明する
+- ガバナンスの完全性、強制や操作のリスクを軽減
 
-#### Scalability
+#### スケーラビリティ
 
-**Blockchain oracles**
+**ブロックチェーンのオラクル**
 
-- reduced verification costs by aggregating data from multiple sources
-- optimized on-chain data storage by including only aggregated values and proofs
+- 複数のソースからのデータを集約することで検証コストを削減
+- 集約された値と証明のみを含めることにより、最適化されたオンチェーン データ ストレージ
 
-**Light clients**
+**ライトクライアント**
 
-- verified transaction and data correctness without downloading the entire blockchain
-- improved efficiency and scalability
-- data integrity with reduced computational overhead
+- ブロックチェーン全体をダウンロードすることなく、トランザクションとデータの正確性を検証
+- 効率と拡張性の向上
+- 計算オーバーヘッドの削減によるデータの整合性
 
-#### Interoperability
+#### 相互運用性
 
-**Sidechains**
+**サイドチェーン**
 
-- interoperability between chains without compromising security
-- seamless cross-chain transactions through chain-pegging configurations
-- one chain can act as a light client to verify transactions on the other chain
-- enhanced scalability and efficiency by avoiding full verification of the entire chain
+- セキュリティを損なうことなくチェーン間の相互運用性を実現
+- チェーンペギング構成によるシームレスなクロスチェーントランザクション
+- 一方のチェーンはライトクライアントとして機能し、もう一方のチェーン上のトランザクションを検証できます。
+- チェーン全体の完全な検証を回避することでスケーラビリティと効率が向上
 
-## How Midnight implements ZK Snarks
+## Midnight が ZK Snarks を実装する方法
 
-Midnight implements ZK Snarks in Zswap and Kachina transaction protocols. These protocols preserve confidential data and smart contract development methods that facilitate concurrency and security for transactions involving assets and the exchange of value.
+Midnight は、Zswap および Kachina トランザクション プロトコルで ZK Snarks を実装します。これらのプロトコルは、機密データとスマート コントラクト開発手法を保存し、資産や価値の交換に関わるトランザクションの同時実行性とセキュリティを促進します。

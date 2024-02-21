@@ -6,39 +6,39 @@ draft: 'false'
 images: []
 ---
 
-Built to cater to both blockchain and non-blockchain developers, the Midnight devnet provides a unique opportunity to experiment with the development of data protection apps
+Được xây dựng để phục vụ cho cả nhà phát triển blockchain và không blockchain, Midnight devnet mang đến cơ hội duy nhất để thử nghiệm việc phát triển các ứng dụng bảo vệ dữ liệu
 
-In the ever-evolving landscape of blockchain technology, Midnight stands out for its commitment to innovation and data protection. The Midnight devnet – an initial sandboxed environment for early developer access – was launched on November 13, providing the first pioneering teams with a developer environment to experiment in.
+Trong bối cảnh công nghệ blockchain không ngừng phát triển, Midnight nổi bật với cam kết đổi mới và bảo vệ dữ liệu. Midnight devnet – môi trường hộp cát ban đầu dành cho nhà phát triển truy cập sớm – đã được ra mắt vào ngày 13 tháng 11, cung cấp cho các nhóm tiên phong đầu tiên một môi trường dành cho nhà phát triển để thử nghiệm.
 
-This blog post delves into the Midnight devnet, covering its purpose, scope, and how it fosters collaboration with the wider community.
+Bài đăng trên blog này đi sâu vào mạng phát triển Midnight, đề cập đến mục đích, phạm vi và cách nó thúc đẩy sự cộng tác với cộng đồng rộng lớn hơn.
 
-## What is the Midnight devnet?
+## Devnet lúc nửa đêm là gì?
 
 Viết tắt của 'phát triển mạng lưới', devnet là môi trường ban đầu được cung cấp bởi blockchain, cho phép cộng đồng thử nghiệm rộng rãi các tính năng ban đầu trong môi trường sandboxed. Devnet sau đó sẽ tiến tới testnet và cuối cùng là mainnet.
 
-The Midnight devnet was conceived to provide a distinctive ecosystem for developers interested in working with data protection smart contracts and applications. The devnet is designed to cater to both blockchain developers and those who have limited or no experience with blockchain technology. It opens the doors for building business logic that seamlessly interacts with the blockchain, making it a versatile platform for various user needs.
+Midnight devnet được hình thành để cung cấp một hệ sinh thái đặc biệt cho các nhà phát triển quan tâm đến việc làm việc với các ứng dụng và hợp đồng thông minh bảo vệ dữ liệu. Devnet được thiết kế để phục vụ cho cả nhà phát triển blockchain và những người có ít hoặc không có kinh nghiệm về công nghệ blockchain. Nó mở ra cánh cửa cho việc xây dựng logic kinh doanh tương tác liền mạch với blockchain, biến nó thành một nền tảng linh hoạt đáp ứng nhiều nhu cầu khác nhau của người dùng.
 
-### Compact: Midnight’s domain-specific language
+### Nhỏ gọn: Ngôn ngữ dành riêng cho miền của Midnight
 
-One of Midnight’s objectives is to offer an accessible programming language that allows developers from diverse backgrounds and industries to build decentralized applications.
+Một trong những mục tiêu của Midnight là cung cấp một ngôn ngữ lập trình dễ tiếp cận, cho phép các nhà phát triển thuộc nhiều nền tảng và ngành nghề khác nhau xây dựng các ứng dụng phi tập trung.
 
-For this, Midnight allows developers to write smart contracts with Compact – a domain-specific smart contract programming language designed for data protection that seamlessly integrates with TypeScript. Compact serves as both the programming model and language for defining zero-knowledge (ZK) circuits that are transformed into smart contracts on a public blockchain. The process of authoring these smart contracts closely resembles creating a unit test in TypeScript. The part of the DApp that does not interact with the blockchain is written in normal TypeScript.
+Để làm được điều này, Midnight cho phép các nhà phát triển viết hợp đồng thông minh với Compact – ngôn ngữ lập trình hợp đồng thông minh dành riêng cho miền được thiết kế để bảo vệ dữ liệu tích hợp liền mạch với TypeScript. Compact đóng vai trò vừa là mô hình lập trình vừa là ngôn ngữ để xác định các mạch không có kiến ​​thức (ZK) được chuyển đổi thành hợp đồng thông minh trên chuỗi khối công khai. Quá trình tạo ra các hợp đồng thông minh này gần giống với việc tạo một bài kiểm tra đơn vị trong TypeScript. Phần DApp không tương tác với blockchain được viết bằng TypeScript thông thường.
 
-While resembling TypeScript on the surface, Compact operates as a more constrained language that exists alongside it. Certain core TypeScript features were intentionally omitted to enable the necessary proofs and analyses required by Midnight. Working with Compact is straightforward and does not require extensive mathematical knowledge.
+Mặc dù bề ngoài trông giống TypeScript, nhưng Compact hoạt động như một ngôn ngữ hạn chế hơn tồn tại cùng với nó. Một số tính năng cốt lõi của TypeScript đã bị cố ý bỏ qua để thực hiện các bằng chứng và phân tích cần thiết theo yêu cầu của Midnight. Làm việc với Compact rất đơn giản và không yêu cầu kiến ​​thức toán học sâu rộng.
 
-### The testnet Dust (tDUST) token
+### Mã thông báo Dustnet thử nghiệm (tDUST)
 
-tDUST is Midnight’s devnet token used by devnet users and developers to pay for transaction fees and to access and use DApps built on the Midnight devnet. tDUST tokens are for devnet use only and do not leave the devnet environment. tDUST tokens may be obtained by a request using the devnet faucet. The devnet scope: what’s available for early testers?
+tDUST là mã thông báo devnet của Midnight được người dùng và nhà phát triển devnet sử dụng để thanh toán phí giao dịch cũng như truy cập và sử dụng DApps được xây dựng trên devnet Midnight. Mã thông báo tDUST chỉ dành cho devnet và không rời khỏi môi trường devnet. Mã thông báo tDUST có thể nhận được bằng yêu cầu sử dụng vòi devnet. Phạm vi devnet: những gì có sẵn cho những người thử nghiệm sớm?
 
-The initial cohort of Midnight pioneers can experiment with:
+Nhóm tiên phong lúc nửa đêm ban đầu có thể thử nghiệm:
 
-- Building data protection smart contracts using the Compact language and compiler. Pioneers can author and compile their own Compact programs and the associated TypeScript or JavaScript client software. They can test their data protection DApps locally, deploy them to devnet and share with other devnet users.
-- Storing, managing, and interacting with Midnight assets and DApps directly within the Google Chrome web browser using a Midnight version of the Lace wallet.
-- Paying transaction fees and moving shielded devnet tDUST tokens peer-to-peer within devnet.
-- Creating ZK proofs and performing ZK computations using the local proof generator software to facilitate the submission of secure transactions and proof data from clients.
-- Indexing the Midnight blockchain data to support wallet and DApp functionality using the pub-sub indexer to query data directly from the ledger.
-- Writing Midnight DApps in TypeScript and Compact code supported by the Visual Studio Code plugin.
+- Xây dựng hợp đồng thông minh bảo vệ dữ liệu bằng ngôn ngữ và trình biên dịch Compact. Những người tiên phong có thể soạn thảo và biên dịch các chương trình Compact của riêng họ cũng như phần mềm máy khách TypeScript hoặc JavaScript được liên kết. Họ có thể kiểm tra DApp bảo vệ dữ liệu cục bộ, triển khai chúng trên devnet và chia sẻ với những người dùng devnet khác.
+- Lưu trữ, quản lý và tương tác với tài sản Midnight và DApp trực tiếp trong trình duyệt web Google Chrome bằng phiên bản Midnight của ví Lace.
+- Thanh toán phí giao dịch và di chuyển các mã thông báo tDUST của devnet được bảo vệ ngang hàng trong devnet.
+- Tạo bằng chứng ZK và thực hiện tính toán ZK bằng phần mềm tạo bằng chứng cục bộ để tạo điều kiện thuận lợi cho việc gửi các giao dịch an toàn và dữ liệu bằng chứng từ khách hàng.
+- Lập chỉ mục dữ liệu chuỗi khối Midnight để hỗ trợ chức năng ví và DApp bằng cách sử dụng bộ chỉ mục pub-sub để truy vấn dữ liệu trực tiếp từ sổ cái.
+- Viết Midnight DApps bằng mã TypeScript và Compact được hỗ trợ bởi plugin Visual Studio Code.
 
-### Community as the driving force of success
+### Cộng đồng là động lực của thành công
 
-The collaborative engagement of the wider community is instrumental in fostering a robust network. Sharing feedback, experiences, and lessons learned not only enriches the development process but also ensures a diverse range of perspectives. At this early stage, the community's involvement holds the key to refining functionalities, identifying potential issues, and exploring creative use cases. By actively participating, the community aids in shaping the network's future, aligning it more closely with the diverse needs and expectations of developers and users alike.
+Sự tham gia hợp tác của cộng đồng rộng lớn hơn là công cụ thúc đẩy một mạng lưới mạnh mẽ. Chia sẻ phản hồi, kinh nghiệm và bài học kinh nghiệm không chỉ làm phong phú thêm quá trình phát triển mà còn đảm bảo nhiều quan điểm đa dạng. Ở giai đoạn đầu này, sự tham gia của cộng đồng là chìa khóa để tinh chỉnh các chức năng, xác định các vấn đề tiềm ẩn và khám phá các trường hợp sử dụng sáng tạo. Bằng cách tham gia tích cực, cộng đồng sẽ hỗ trợ định hình tương lai của mạng, điều chỉnh nó chặt chẽ hơn với nhu cầu và mong đợi đa dạng của các nhà phát triển cũng như người dùng.

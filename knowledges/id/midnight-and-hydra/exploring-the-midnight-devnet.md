@@ -1,44 +1,44 @@
 ---
 title: Midnight devnet Tengah Malam
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
+date: "06-10-2020 08:48:23 +0000"
+lastmod: "06-10-2020 08:48:23 +0000"
 draft: 'false'
 images: []
 ---
 
-Built to cater to both blockchain and non-blockchain developers, the Midnight devnet provides a unique opportunity to experiment with the development of data protection apps
+Dibangun untuk melayani pengembang blockchain dan non-blockchain, devnet Midnight memberikan kesempatan unik untuk bereksperimen dengan pengembangan aplikasi perlindungan data
 
-In the ever-evolving landscape of blockchain technology, Midnight stands out for its commitment to innovation and data protection. The Midnight devnet – an initial sandboxed environment for early developer access – was launched on November 13, providing the first pioneering teams with a developer environment to experiment in.
+Dalam lanskap teknologi blockchain yang terus berkembang, Midnight menonjol karena komitmennya terhadap inovasi dan perlindungan data. Devnet Midnight – lingkungan sandbox awal untuk akses pengembang awal – diluncurkan pada 13 November, menyediakan lingkungan pengembang pertama bagi tim perintis untuk bereksperimen.
 
-This blog post delves into the Midnight devnet, covering its purpose, scope, and how it fosters collaboration with the wider community.
+Entri blog ini mendalami devnet Midnight, mencakup tujuan, ruang lingkup, dan cara mengembangkan kolaborasi dengan komunitas luas.
 
-## What is the Midnight devnet?
+## Apa itu devnet Tengah Malam?
 
-Short for ‘development network’, a devnet is the initial environment provided by a blockchain, allowing the community to extensively test early features in a sandboxed environment. A devnet later advances to testnet and, ultimately, mainnet.
+Kependekan dari 'jaringan pengembangan', devnet adalah lingkungan awal yang disediakan oleh blockchain, memungkinkan komunitas untuk menguji fitur-fitur awal secara ekstensif dalam lingkungan sandbox. Devnet kemudian berkembang menjadi testnet dan, pada akhirnya, mainnet.
 
-The Midnight devnet was conceived to provide a distinctive ecosystem for developers interested in working with data protection smart contracts and applications. The devnet is designed to cater to both blockchain developers and those who have limited or no experience with blockchain technology. It opens the doors for building business logic that seamlessly interacts with the blockchain, making it a versatile platform for various user needs.
+Devnet Midnight dirancang untuk menyediakan ekosistem khas bagi pengembang yang tertarik bekerja dengan kontrak dan aplikasi pintar perlindungan data. Devnet dirancang untuk melayani pengembang blockchain dan mereka yang memiliki pengalaman terbatas atau tidak sama sekali dengan teknologi blockchain. Ini membuka pintu untuk membangun logika bisnis yang berinteraksi secara mulus dengan blockchain, menjadikannya platform serbaguna untuk berbagai kebutuhan pengguna.
 
-### Compact: Midnight’s domain-specific language
+### Ringkas: Bahasa khusus domain Midnight
 
-One of Midnight’s objectives is to offer an accessible programming language that allows developers from diverse backgrounds and industries to build decentralized applications.
+Salah satu tujuan Midnight adalah untuk menawarkan bahasa pemrograman yang dapat diakses yang memungkinkan pengembang dari berbagai latar belakang dan industri untuk membangun aplikasi yang terdesentralisasi.
 
-For this, Midnight allows developers to write smart contracts with Compact – a domain-specific smart contract programming language designed for data protection that seamlessly integrates with TypeScript. Compact serves as both the programming model and language for defining zero-knowledge (ZK) circuits that are transformed into smart contracts on a public blockchain. The process of authoring these smart contracts closely resembles creating a unit test in TypeScript. The part of the DApp that does not interact with the blockchain is written in normal TypeScript.
+Untuk ini, Midnight memungkinkan pengembang untuk menulis kontrak pintar dengan Compact – bahasa pemrograman kontrak pintar khusus domain yang dirancang untuk perlindungan data yang terintegrasi secara mulus dengan TypeScript. Compact berfungsi sebagai model pemrograman dan bahasa untuk mendefinisikan sirkuit tanpa pengetahuan (ZK) yang diubah menjadi kontrak pintar pada blockchain publik. Proses pembuatan kontrak pintar ini sangat mirip dengan pembuatan pengujian unit di TypeScript. Bagian DApp yang tidak berinteraksi dengan blockchain ditulis dalam TypeScript normal.
 
-While resembling TypeScript on the surface, Compact operates as a more constrained language that exists alongside it. Certain core TypeScript features were intentionally omitted to enable the necessary proofs and analyses required by Midnight. Working with Compact is straightforward and does not require extensive mathematical knowledge.
+Meskipun sekilas menyerupai TypeScript, Compact beroperasi sebagai bahasa yang lebih terbatas yang ada di sampingnya. Fitur inti TypeScript tertentu sengaja dihilangkan untuk memungkinkan pembuktian dan analisis yang diperlukan oleh Midnight. Bekerja dengan Compact sangatlah mudah dan tidak memerlukan pengetahuan matematika yang luas.
 
-### The testnet Dust (tDUST) token
+### Token testnet Debu (tDUST).
 
-tDUST is Midnight’s devnet token used by devnet users and developers to pay for transaction fees and to access and use DApps built on the Midnight devnet. tDUST tokens are for devnet use only and do not leave the devnet environment. tDUST tokens may be obtained by a request using the devnet faucet. The devnet scope: what’s available for early testers?
+tDUST adalah token devnet Midnight yang digunakan oleh pengguna dan pengembang devnet untuk membayar biaya transaksi dan untuk mengakses serta menggunakan DApps yang dibangun di devnet Midnight. Token tDUST hanya untuk penggunaan devnet dan tidak meninggalkan lingkungan devnet. Token tDUST dapat diperoleh melalui permintaan menggunakan faucet devnet. Cakupan devnet: apa yang tersedia untuk penguji awal?
 
-The initial cohort of Midnight pioneers can experiment with:
+Kelompok awal pionir Midnight dapat bereksperimen dengan:
 
-- Building data protection smart contracts using the Compact language and compiler. Pioneers can author and compile their own Compact programs and the associated TypeScript or JavaScript client software. They can test their data protection DApps locally, deploy them to devnet and share with other devnet users.
-- Storing, managing, and interacting with Midnight assets and DApps directly within the Google Chrome web browser using a Midnight version of the Lace wallet.
-- Paying transaction fees and moving shielded devnet tDUST tokens peer-to-peer within devnet.
-- Creating ZK proofs and performing ZK computations using the local proof generator software to facilitate the submission of secure transactions and proof data from clients.
-- Indexing the Midnight blockchain data to support wallet and DApp functionality using the pub-sub indexer to query data directly from the ledger.
-- Writing Midnight DApps in TypeScript and Compact code supported by the Visual Studio Code plugin.
+- Membangun kontrak pintar perlindungan data menggunakan bahasa dan kompiler Compact. Pionir dapat membuat dan mengkompilasi program Compact mereka sendiri dan perangkat lunak klien TypeScript atau JavaScript yang terkait. Mereka dapat menguji DApps perlindungan data secara lokal, menyebarkannya ke devnet, dan berbagi dengan pengguna devnet lainnya.
+- Menyimpan, mengelola, dan berinteraksi dengan aset dan DApps Midnight langsung di dalam browser web Google Chrome menggunakan dompet Lace versi Midnight.
+- Membayar biaya transaksi dan memindahkan token devnet tDUST terlindung secara peer-to-peer dalam devnet.
+- Membuat bukti ZK dan melakukan perhitungan ZK menggunakan perangkat lunak pembuat bukti lokal untuk memfasilitasi penyerahan transaksi aman dan data bukti dari klien.
+- Mengindeks data blockchain Midnight untuk mendukung fungsionalitas dompet dan DApp menggunakan pengindeks pub-sub untuk menanyakan data langsung dari buku besar.
+- Menulis Midnight DApps dalam kode TypeScript dan Compact yang didukung oleh plugin Visual Studio Code.
 
-### Community as the driving force of success
+### Komunitas sebagai penggerak kesuksesan
 
-The collaborative engagement of the wider community is instrumental in fostering a robust network. Sharing feedback, experiences, and lessons learned not only enriches the development process but also ensures a diverse range of perspectives. At this early stage, the community's involvement holds the key to refining functionalities, identifying potential issues, and exploring creative use cases. By actively participating, the community aids in shaping the network's future, aligning it more closely with the diverse needs and expectations of developers and users alike.
+Keterlibatan kolaboratif komunitas luas sangat penting dalam membina jaringan yang kuat. Berbagi umpan balik, pengalaman, dan pembelajaran tidak hanya memperkaya proses pembangunan tetapi juga memastikan beragamnya perspektif. Pada tahap awal ini, keterlibatan komunitas memegang kunci untuk menyempurnakan fungsi, mengidentifikasi potensi masalah, dan mengeksplorasi kasus penggunaan kreatif. Dengan berpartisipasi secara aktif, komunitas membantu membentuk masa depan jaringan, menyelaraskannya dengan beragam kebutuhan dan harapan pengembang dan pengguna.

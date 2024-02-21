@@ -1,108 +1,108 @@
 ---
 title: Zero-knowledge demystified
-date: '2020-10-06 08:48:23 +0000'
-lastmod: '2020-10-06 08:48:23 +0000'
+date: "06-10-2020 08:48:23 +0000"
+lastmod: "06-10-2020 08:48:23 +0000"
 draft: 'false'
 images: []
 ---
 
-## Learn how Midnight protects users’ data using zero-knowledge technology
+## Pelajari bagaimana Midnight melindungi data pengguna menggunakan teknologi tanpa pengetahuan
 
-Frequent data breaches have revealed stark vulnerabilities in data protection, both for individuals and organizations. Zero-knowledge (ZK) technology provides a great solution, prioritizing user empowerment and data protection while removing intermediary control. However, mastering blockchain and cryptography complexities while complying with local regulations can be still challenging.
+Pelanggaran data yang sering terjadi telah mengungkapkan kerentanan besar dalam perlindungan data, baik bagi individu maupun organisasi. Teknologi zero-knowledge (ZK) memberikan solusi hebat, memprioritaskan pemberdayaan pengguna dan perlindungan data sekaligus menghilangkan kendali perantara. Namun, menguasai kompleksitas blockchain dan kriptografi sambil mematuhi peraturan setempat masih merupakan tantangan.
 
-Midnight provides the tools to build DApps that provide data protection for users and entrepreneurs, striking a balance between data disclosure and legal protection. Midnight’s features empower users to conduct commercial transactions with minimal risk of data misuse, fostering compliance with data protection laws and protecting user data from leakage.
+Midnight menyediakan alat untuk membangun DApps yang memberikan perlindungan data bagi pengguna dan pengusaha, memberikan keseimbangan antara pengungkapan data dan perlindungan hukum. Fitur Midnight memberdayakan pengguna untuk melakukan transaksi komersial dengan risiko minimal penyalahgunaan data, mendorong kepatuhan terhadap undang-undang perlindungan data, dan melindungi data pengguna dari kebocoran.
 
-Midnight achieves this by utilizing ZK technology. Read on to learn more about ZK – the underlying tech driving Midnight’s data protection capabilities.
+Midnight mencapai hal ini dengan memanfaatkan teknologi ZK. Baca terus untuk mengetahui lebih lanjut tentang ZK – teknologi dasar yang mendorong kemampuan perlindungan data Midnight.
 
-## What is zero-knowledge technology?
+## Apa itu teknologi tanpa pengetahuan?
 
-ZK is a method of verifying information without actually revealing it. Midnight uses ZK to enhance privacy, security, and scalability of blockchain operations by enabling confidential transactions and smart contracts, and secure data management.
+ZK adalah metode memverifikasi informasi tanpa benar-benar mengungkapkannya. Midnight menggunakan ZK untuk meningkatkan privasi, keamanan, dan skalabilitas operasi blockchain dengan mengaktifkan transaksi rahasia dan kontrak pintar, serta mengamankan manajemen data.
 
-ZK involves two parties: a prover and a verifier. The prover holds confidential information they don’t want to disclose, yet they can produce evidence to the verifier that certain statements with regard to this information are true without sharing the actual information. For this, the system generates a zero-knowledge proof (ZKP) as validation.
+ZK melibatkan dua pihak: pembukti dan pemverifikasi. Pembukti menyimpan informasi rahasia yang tidak ingin mereka ungkapkan, namun mereka dapat memberikan bukti kepada pemeriksa bahwa pernyataan tertentu mengenai informasi ini adalah benar tanpa membagikan informasi sebenarnya. Untuk ini, sistem menghasilkan bukti tanpa pengetahuan (ZKP) sebagai validasi.
 
-### An example of using a ZKP
+### Contoh penggunaan ZKP
 
-Imagine a situation where you need to prove a medical condition you have, without revealing any private details. This situation could come up in scenarios like applying for insurance or disclosing health information to an employer. With ZKPs, you can generate evidence that your medical condition is valid, without sharing any personal information.
+Bayangkan sebuah situasi di mana Anda perlu membuktikan kondisi medis yang Anda miliki, tanpa mengungkapkan rincian pribadi apa pun. Situasi ini dapat muncul dalam skenario seperti mengajukan permohonan asuransi atau mengungkapkan informasi kesehatan kepada pemberi kerja. Dengan ZKP, Anda dapat menghasilkan bukti bahwa kondisi medis Anda valid, tanpa membagikan informasi pribadi apa pun.
 
-For example, let's say you're applying for health insurance. The insurance company needs to verify your pre-existing medical condition to determine your coverage. Instead of exposing all your medical history, an application would use ZKPs to create a proof that only confirms the existence of the condition. This proof is then shared with the insurer, who can validate its authenticity without knowing the exact details of your ailment.
+Misalnya, Anda mengajukan permohonan asuransi kesehatan. Perusahaan asuransi perlu memverifikasi kondisi medis Anda yang sudah ada sebelumnya untuk menentukan pertanggungan Anda. Alih-alih mengungkap seluruh riwayat kesehatan Anda, aplikasi akan menggunakan ZKP untuk membuat bukti yang hanya mengonfirmasi keberadaan kondisi tersebut. Bukti ini kemudian dibagikan kepada perusahaan asuransi, yang dapat memvalidasi keasliannya tanpa mengetahui rincian pasti penyakit Anda.
 
-In this way, ZKPs ensure that you can establish the truth about your medical condition without compromising your privacy. This same principle applies to various other situations where you need to prove something without disclosing personal information.
+Dengan cara ini, ZKP memastikan bahwa Anda dapat membuktikan kebenaran tentang kondisi medis Anda tanpa mengorbankan privasi Anda. Prinsip yang sama berlaku untuk berbagai situasi lain di mana Anda perlu membuktikan sesuatu tanpa mengungkapkan informasi pribadi.
 
-## Zero-knowledge proofs explained
+## Bukti tanpa pengetahuan dijelaskan
 
-There are different types of ZKPs, which differ in performance and cryptographic assumptions. Zero-knowledge succinct non-interactive arguments of knowledge (ZK Snarks) and succinct transparent arguments of knowledge (ZK Starks) are some of the most popular proof systems in blockchain.
+Ada berbagai jenis ZKP, yang berbeda dalam kinerja dan asumsi kriptografi. Argumen pengetahuan non-interaktif ringkas tanpa pengetahuan (ZK Snarks) dan argumen pengetahuan transparan ringkas (ZK Starks) adalah beberapa sistem pembuktian paling populer di blockchain.
 
-ZK Snarks are efficient proofs in terms of their size and verification time. They can conceal the data used to generate the proof, which provides efficiency, strong security guarantees, and data protection. ZK Starks require only a trusted hash function during setup, which offers benefits in terms of security and prover running time, but can result in performance overhead with respect to the proof size and verifier.
+ZK Snarks adalah bukti yang efisien dalam hal ukuran dan waktu verifikasi. Mereka dapat menyembunyikan data yang digunakan untuk menghasilkan bukti, sehingga memberikan efisiensi, jaminan keamanan yang kuat, dan perlindungan data. ZK Starks hanya memerlukan fungsi hash tepercaya selama penyiapan, yang menawarkan manfaat dalam hal keamanan dan waktu berjalan pembuktian, namun dapat mengakibatkan overhead kinerja sehubungan dengan ukuran bukti dan pemverifikasi.
 
-Midnight utilizes ZK Snarks as the most appealing proof system for verifiers due to its combination of efficiency with robust security settings.
+Midnight menggunakan ZK Snarks sebagai sistem pembuktian yang paling menarik bagi pemverifikasi karena kombinasi efisiensi dan pengaturan keamanan yang kuat.
 
-## How do ZK Snarks work?
+## Bagaimana cara kerja ZK Snarks?
 
-Because ZK Snarks are non-interactive arguments of knowledge, they allow a prover to demonstrate the truth of a statement without the need for ongoing interaction with a verifier. This enables the prover to generate a compact proof that can be independently validated by the verifier, without revealing any sensitive information. Proof generation and verification involve intricate mathematical operations and structures, such as elliptic curve pairings and advanced algebraic techniques.
+Karena ZK Snarks adalah argumen pengetahuan non-interaktif, mereka mengizinkan pembukti untuk menunjukkan kebenaran suatu pernyataan tanpa memerlukan interaksi berkelanjutan dengan pemverifikasi. Hal ini memungkinkan pembukti menghasilkan bukti ringkas yang dapat divalidasi secara independen oleh verifikator, tanpa mengungkapkan informasi sensitif apa pun. Pembuatan dan verifikasi pembuktian melibatkan operasi dan struktur matematika yang rumit, seperti pasangan kurva elips dan teknik aljabar tingkat lanjut.
 
-The high-level process looks as follows:
+Proses tingkat tinggi terlihat sebagai berikut:
 
 <image src="https://cdn.sanity.io/images/330xhmya/production/403fc22c1ca16fc018a0509fb0b35025cd486dcb-1920x1080.jpg?w=3840"></image><br>
 
-Here is a more detailed explanation of how ZK Snarks work:
+Berikut penjelasan lebih detail cara kerja ZK Snarks:
 
-- **Setup phase**. Similar to other cryptographic protocols, ZK Snarks begin with a setup phase by establishing certain parameters, the generation of public proving and verifying keys, for example. These parameters play a crucial role in the security and functioning of the scheme.
-- **Key components**. ZK Snarks involve several key components, including elliptic curve pairings (mathematical structures used in cryptography to secure data) and specialized hash functions (tools that transform data into fixed-size values, like a unique digital fingerprint of information). These components contribute to the creation of succinct and highly efficient proofs. Think of those as puzzle pieces that fit together perfectly to create proofs that are short and efficient.
-- **Circuit construction**. Imagine building a road with different signs and paths. Circuit construction is like a roadmap with a mathematical representation of the problem to be solved translated into an arithmetic circuit. This circuit encompasses various operations and constraints related to the statement being proven.
-- **Witness and proof generation**. The prover, who possesses a secret (the ‘witness’) related to the statement, constructs a ZK Snarks proof. This involves a series of cryptographic operations combined with the circuit's constraints and the public parameters from the setup phase. The result is a compact proof, attesting to the statement's truth without revealing any details about the witness.
-- **Verification**. The verifier, armed with the proof, the public parameters, and the original statement, can now efficiently verify the proof's validity. This process involves mathematical computations that confirm the proof's correctness, ensuring that the prover indeed possesses the correct witness for the statement.
+- **Fase pengaturan** . Mirip dengan protokol kriptografi lainnya, ZK Snarks memulai dengan fase penyiapan dengan menetapkan parameter tertentu, misalnya pembuatan kunci pembuktian dan verifikasi publik. Parameter-parameter ini memainkan peranan penting dalam keamanan dan berfungsinya skema.
+- **Komponen-komponen kunci** . ZK Snarks melibatkan beberapa komponen utama, termasuk pasangan kurva elips (struktur matematika yang digunakan dalam kriptografi untuk mengamankan data) dan fungsi hash khusus (alat yang mengubah data menjadi nilai berukuran tetap, seperti sidik jari informasi digital yang unik). Komponen-komponen ini berkontribusi pada penciptaan bukti yang ringkas dan sangat efisien. Anggap saja itu sebagai potongan puzzle yang berpadu sempurna untuk menghasilkan bukti yang singkat dan efisien.
+- **Konstruksi sirkuit** . Bayangkan membangun jalan dengan rambu dan jalur yang berbeda. Konstruksi rangkaian seperti peta jalan dengan representasi matematis dari masalah yang ingin diselesaikan diterjemahkan ke dalam rangkaian aritmatika. Rangkaian ini mencakup berbagai operasi dan batasan yang berkaitan dengan pernyataan yang dibuktikan.
+- **Generasi saksi dan bukti** . Pepatah yang memiliki rahasia (“saksi”) terkait pernyataan tersebut, membangun bukti ZK Snarks. Ini melibatkan serangkaian operasi kriptografi yang dikombinasikan dengan batasan rangkaian dan parameter publik dari fase penyiapan. Hasilnya adalah bukti yang kompak, membuktikan kebenaran pernyataan tersebut tanpa mengungkapkan rincian apapun tentang saksi.
+- **Verifikasi** . Verifikator, yang dilengkapi dengan bukti, parameter publik, dan pernyataan asli, kini dapat memverifikasi validitas bukti secara efisien. Proses ini melibatkan perhitungan matematis yang memastikan kebenaran bukti, memastikan bahwa pembukti memang memiliki saksi yang benar untuk pernyataan tersebut.
 
-## What are the benefits of ZK Snarks in Midnight?
+## Apa kelebihan ZK Snarks di Midnight?
 
-The use of ZK Snarks in Midnight provides users with the following benefits:
+Penggunaan ZK Snarks di Midnight memberi pengguna manfaat berikut:
 
 <image src="https://cdn.sanity.io/images/330xhmya/production/772f3105ddaa86e1f9644ea209f424e766890c4b-1920x1080.jpg?w=3840"></image><br>
 
-## Use cases
+## Kasus penggunaan
 
-ZK Snarks support different use cases (non-exhaustive):
+ZK Snarks mendukung kasus penggunaan yang berbeda (tidak lengkap):
 
-#### Data protection
+#### Perlindungan data
 
-**Confidential smart contracts and payments**
+**Kontrak dan pembayaran pintar rahasia**
 
-- secure execution of confidential smart contracts
-- compliance with predefined rules while safeguarding sensitive information
-- seamless integration of confidential payments for multi-assets and NFTs with smart contracts
+- eksekusi kontrak pintar rahasia yang aman
+- kepatuhan terhadap aturan yang telah ditentukan sambil menjaga informasi sensitif
+- integrasi pembayaran rahasia yang mulus untuk multi-aset dan NFT dengan kontrak pintar
 
-**Data management**
+**Manajemen data**
 
-- validation of user data without sharing it
-- protected user identities and data authenticity
+- validasi data pengguna tanpa membagikannya
+- melindungi identitas pengguna dan keaslian data
 
-**Voting**
+**Pemungutan suara**
 
-- secure and confidential voting processes
-- proven eligibility without revealing identities or preferences
-- governance integrity, reducing risks of coercion or manipulation
+- proses pemungutan suara yang aman dan rahasia
+- kelayakan yang terbukti tanpa mengungkapkan identitas atau preferensi
+- integritas tata kelola, mengurangi risiko pemaksaan atau manipulasi
 
-#### Scalability
+#### Skalabilitas
 
-**Blockchain oracles**
+**Oracle Blockchain**
 
-- reduced verification costs by aggregating data from multiple sources
-- optimized on-chain data storage by including only aggregated values and proofs
+- mengurangi biaya verifikasi dengan menggabungkan data dari berbagai sumber
+- penyimpanan data on-chain yang dioptimalkan dengan hanya menyertakan nilai dan bukti gabungan
 
-**Light clients**
+**Klien ringan**
 
-- verified transaction and data correctness without downloading the entire blockchain
-- improved efficiency and scalability
-- data integrity with reduced computational overhead
+- transaksi terverifikasi dan kebenaran data tanpa mengunduh seluruh blockchain
+- peningkatan efisiensi dan skalabilitas
+- integritas data dengan pengurangan overhead komputasi
 
-#### Interoperability
+#### Interoperabilitas
 
-**Sidechains**
+**Rantai samping**
 
-- interoperability between chains without compromising security
-- seamless cross-chain transactions through chain-pegging configurations
-- one chain can act as a light client to verify transactions on the other chain
-- enhanced scalability and efficiency by avoiding full verification of the entire chain
+- interoperabilitas antar rantai tanpa mengorbankan keamanan
+- transaksi lintas rantai yang mulus melalui konfigurasi pegging rantai
+- satu rantai dapat bertindak sebagai klien ringan untuk memverifikasi transaksi di rantai lainnya
+- meningkatkan skalabilitas dan efisiensi dengan menghindari verifikasi penuh seluruh rantai
 
-## How Midnight implements ZK Snarks
+## Bagaimana Midnight mengimplementasikan ZK Snarks
 
-Midnight implements ZK Snarks in Zswap and Kachina transaction protocols. These protocols preserve confidential data and smart contract development methods that facilitate concurrency and security for transactions involving assets and the exchange of value.
+Midnight mengimplementasikan ZK Snarks dalam protokol transaksi Zswap dan Kachina. Protokol ini menjaga data rahasia dan metode pengembangan kontrak cerdas yang memfasilitasi konkurensi dan keamanan untuk transaksi yang melibatkan aset dan pertukaran nilai.

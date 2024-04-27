@@ -1,55 +1,55 @@
 ---
 title: Danh mục
-description: Catalyst Docs
+description: Tài liệu xúc tác
 draft: 'false'
 images: []
 weight: '30'
 ---
 
-In Fund 12, proposal submissions are organized into streamlined categories and a track-based approach. Applicants will submit proposals into one of three categories: Cardano Use cases, Cardano Open, and Cardano Partners.
+Trong Quỹ 12, việc đệ trình đề xuất được tổ chức thành các danh mục hợp lý và cách tiếp cận dựa trên đường đi. Người đăng ký sẽ gửi đề xuất vào một trong ba loại: Trường hợp sử dụng Cardano, Cardano Open và Cardano Partners.
 
-### Cardano Use Cases
+### Trường hợp sử dụng Cardano
 
-The total category budget is **₳22,500,000**, divided equally into three funding tracks. Proposal submissions should answer one of the following:
+Tổng ngân sách hạng mục là **₳22.500.000** , được chia đều thành ba nguồn tài trợ. Hồ sơ đề xuất phải trả lời một trong các câu sau:
 
-#### Concept
+#### Ý tưởng
 
-**Budget**: ₳7,500,000
+**Ngân sách** : ₳7,500,000
 
-What DApp ideas or product concepts need design and prototyping to demonstrate their purpose and realize novel applications or use cases of the Cardano blockchain? Submissions must be for new product ideas.
+Những ý tưởng DApp hoặc khái niệm sản phẩm nào cần thiết kế và tạo nguyên mẫu để thể hiện mục đích của chúng và hiện thực hóa các ứng dụng mới hoặc trường hợp sử dụng của chuỗi khối Cardano? Bài dự thi phải dành cho ý tưởng sản phẩm mới.
 
 #### MVP
 
-**Budget**: ₳7,500,000
+**Ngân sách** : ₳7,500,000
 
-How can we support early blockchain startup projects to reach Cardano testnet or MVP readiness? Submissions must include a functioning prototype that can be demonstrated in the proposal. Submissions must supply a proof of concept available for reviewers and voters.
+Làm cách nào chúng tôi có thể hỗ trợ các dự án khởi nghiệp blockchain sớm để đạt được sự sẵn sàng của Cardano testnet hoặc MVP? Đệ trình phải bao gồm một nguyên mẫu hoạt động có thể được chứng minh trong đề xuất. Các bài nộp phải cung cấp bằng chứng về khái niệm có sẵn cho người đánh giá và người bỏ phiếu.
 
-#### Product
+#### Sản phẩm
 
-**Budget**: ₳7,500,000
+**Ngân sách** : ₳7,500,000
 
-What products and integrations can be accelerated to offer more high-impact use cases at scale to drive more adoption in the Cardano ecosystem? Submissions must have a working product in the market with high growth potential. Submissions for R&amp;D must have the proposed product already in the market, which can be used by reviewers and voters today.
+Những sản phẩm và hoạt động tích hợp nào có thể được tăng tốc để mang lại nhiều trường hợp sử dụng có tác động cao hơn trên quy mô lớn nhằm thúc đẩy việc áp dụng nhiều hơn trong hệ sinh thái Cardano? Bài dự thi phải có sản phẩm đang hoạt động trên thị trường với tiềm năng tăng trưởng cao. Các bài nộp cho R&amp;D phải có sản phẩm được đề xuất trên thị trường, những người đánh giá và cử tri ngày nay có thể sử dụng sản phẩm này.
 
-### Cardano Open
+### Cardano mở
 
-The total category budget **is ₳16,000,000**, divided equally into two funding tracks. Technical proposals should be submitted to the Cardano open: developers track. Non-technical proposals should be submitted to the Cardano open: ecosystem track.
+Tổng ngân sách hạng mục **là ₳16.000.000** , được chia đều thành hai nguồn tài trợ. Các đề xuất kỹ thuật phải được gửi đến Cardano open: đường đua dành cho nhà phát triển. Các đề xuất phi kỹ thuật phải được gửi tới hệ sinh thái mở Cardano.
 
-#### Developers-technical
+#### Nhà phát triển-kỹ thuật
 
-**Budget**: ₳10,500,000
+**Ngân sách** : ₳10,500,000
 
-What open source tooling is needed to enable the Cardano developer ecosystem to thrive? The focus should be on supporting open-source development efforts.
+Cần có công cụ nguồn mở nào để giúp hệ sinh thái nhà phát triển Cardano phát triển mạnh mẽ? Cần tập trung vào việc hỗ trợ các nỗ lực phát triển nguồn mở.
 
-#### Ecosystem-non-technical
+#### Hệ sinh thái-phi kỹ thuật
 
-**Budget**: ₳5,500,000
+**Ngân sách** : ₳5,500,000
 
-What creative ideas and activities will expand Project Catalyst's global footprint, educate, and onboard more Cardano and Cardano DApps users? The focus should be on supporting non-technical proposals for marketing, Cardano regional growth, and community-building endeavors.
+Những ý tưởng và hoạt động sáng tạo nào sẽ mở rộng phạm vi hoạt động toàn cầu của Project Catalyst, giáo dục và thu hút nhiều người dùng Cardano và Cardano DApps hơn? Trọng tâm nên là hỗ trợ các đề xuất phi kỹ thuật để tiếp thị, tăng trưởng khu vực Cardano và nỗ lực xây dựng cộng đồng.
 
-### Cardano Partners and Real World Integrations
+### Đối tác Cardano và tích hợp trong thế giới thực
 
-The total category budget is **₳8,000,000** accepting grant funding proposals to ignite partnerships and adoption for Cardano with leaders of industry
+Tổng ngân sách hạng mục là **₳8.000.000** chấp nhận các đề xuất tài trợ để kích thích quan hệ đối tác và áp dụng Cardano với các nhà lãnh đạo trong ngành
 
-#### ₳500k-₳2m proposals
+#### Đề xuất ₳500k-₳2 triệu
 
-Cardano adoption will explode once more real world and commercial enterprise partnerships are born! For blue chip collaborations, venture acceleration, and primetime marketing for Cardano mainstream adoption. A Catalyst sub- committee comprised of Intersect and founding entities will review and shortlist the highest potential proposals for the community vote. Submission deadline is extended until June 6, 2024 to allow for partnership forming and getting organized
+Việc áp dụng Cardano sẽ bùng nổ một khi các mối quan hệ đối tác giữa thế giới thực và doanh nghiệp thương mại ra đời! Dành cho sự hợp tác blue chip, tăng tốc liên doanh và tiếp thị vào thời điểm vàng để áp dụng rộng rãi Cardano. Một tiểu ban Catalyst bao gồm Intersect và các đơn vị sáng lập sẽ xem xét và đưa ra danh sách rút gọn các đề xuất tiềm năng cao nhất để cộng đồng bỏ phiếu. Thời hạn nộp hồ sơ được kéo dài đến ngày 6 tháng 6 năm 2024 để cho phép hình thành và tổ chức quan hệ đối tác
